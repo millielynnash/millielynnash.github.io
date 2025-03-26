@@ -1,0 +1,2047 @@
+{
+  "vaultName": "OSU HDFS Program",
+  "lastExport": 1742998258710,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager native-scrollbars theme-light show-ribbon highlightr-rounded outliner-plugin-dnd mk-folder-lines mk-inline-context-enabled mk-flow-seamless hide-folder-note folder-note-underline folder-note-underline-path fn-whitespace-stop-collapsing centered-tables full-width-tables rounded-tables oz-show-all-num",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "University Resources/Current/Adolescent and Emerging Adulthood/4. Cognitive & Neurological Development/@caseySimpleModelsSelfControl2015.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/4. Cognitive & Neurological Development/4. Cognitive & Neurological Development.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@atkinQualitativeExaminationFamilial2022.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@crocettiIdentityFormationAdolescence2017.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@loydRacialEthnicSocialization2018.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@sladekItsAllMix2022.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@sundarBrownItBring2008.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@umana-taylorEthnicRacialSocialization2020.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/5. Racial and Ethnic Identity Development.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/1..md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/7. Family Influences.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/Untitled Kanban.md",
+    "University Resources/Current/GLM 2/Final Project/Untitled.md",
+    "University Resources/Current/GLM 2/HW/HW 1.md",
+    "University Resources/Current/GLM 2/HW/HW 2.md",
+    "University Resources/Current/GLM 2/HW/HW 3.md",
+    "University Resources/Current/GLM 2/In-Class Content/1. GLM Overview Part I.md",
+    "University Resources/Current/GLM 2/In-Class Content/2. Multiple Regression Review.md",
+    "University Resources/Current/GLM 2/In-Class Content/4. Diagnostics and Psychometrics.md",
+    "University Resources/Current/GLM 2/In-Class Content/5. Conditional Process Analysis.md",
+    "University Resources/Current/GLM 2/In-Class Content/6. Analysis of Covariance (ANCOVA).md",
+    "University Resources/Current/GLM 2/In-Class Content/7. Repeated Measures Designs.md",
+    "University Resources/Current/GLM 2/In-Class Content/8. Mixed Designs. Split-Plot and Mixed ANOVA.md",
+    "University Resources/Current/GLM 2/In-Class Content/9. Best Practices for Reporting & Discussing Results in APA Style.md",
+    "University Resources/Current/GLM 2/In-Class Content/10. Introduction to GLzM. Binary Logistic Regression.md",
+    "University Resources/Current/GLM 2/In-Class Content/11. Regressions with Categorical Data. Multinomial & Ordinal Logistic Regression.md",
+    "University Resources/Current/GLM 2/In-Class Content/12. Regression with Count Data. Negative Binomial Regression & Poisson Regression.md",
+    "University Resources/Current/GLM 2/In-Class Content/13. Special Topics.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Analysis of Covariance (ANCOVA).md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Conditional Process Analysis.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Distance.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Exploratory Factor Analysis (EFA).md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Face Validity.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Homogeneity of Regression Slopes.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Homogeneity of Variances.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Influence.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Leverage.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Main Effects Parameterization.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Moderator.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Simple Contrasts.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Sphericity.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Two-Way ANOVA.md",
+    "University Resources/Current/GLM 2/Analytical Decision Tree for GLM.canvas",
+    "University Resources/Current/GLM 2/General Overview of GLM & GLzM.md",
+    "University Resources/Current/GLM 2/GLM 2.canvas",
+    "University Resources/Current/GLM 2/MANCOVA (Multivariate Analysis of Covariance).md",
+    "University Resources/Current/GLM 2/Mediation.md",
+    "University Resources/Current/GLM 2/Parallel Mediation.md",
+    "University Resources/Current/GLM 2/Serial Mediation.md",
+    "University Resources/Current/GLM 2/Untitled.md",
+    "University Resources/Current/Secondary Data Analysis/1. Introduction to Secondary Data Analysis/1. Introduction to Secondary Data Analysis.md",
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@davis-keanAnsweringDevelopmentalQuestions2015.md",
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@pengArtDataScience2018.md",
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@schwartzImportanceStupidityScientific2008.md",
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/2. Research Questions and Research Ethics.md",
+    "University Resources/Current/Secondary Data Analysis/3. Sharing and Accessing Secondary Data/3. Sharing and Accessing Secondary Data.md",
+    "University Resources/Current/Secondary Data Analysis/4. STATA Basics and Data Management/4. STATA Basics and Data Management.md",
+    "University Resources/Current/Secondary Data Analysis/5. STATA Basics and Data Management/5. STATA Basics and Data Management.md",
+    "University Resources/Current/Secondary Data Analysis/6. Variable Selection & Data Relationships.md",
+    "University Resources/Current/Secondary Data Analysis/7. Sampling & Complex Designs.md",
+    "University Resources/Current/Secondary Data Analysis/9. Missing Data.md",
+    "University Resources/Current/Secondary Data Analysis/10. Data Relationships.md",
+    "University Resources/Current/Secondary Data Analysis/11. Replication, Reproducibility, & Questionable.Fraudulent Practices.md",
+    "University Resources/Current/Secondary Data Analysis/12. Preregistration & Registered Reports.md",
+    "University Resources/Current/Secondary Data Analysis/13. Lab Time.md",
+    "University Resources/Current/Secondary Data Analysis/14. Discuss Research Study & Findings.md",
+    "University Resources/Current/Secondary Data Analysis/Class Activity.md",
+    "University Resources/Current/Secondary Data Analysis/Contextual Outlier.md",
+    "University Resources/Current/Secondary Data Analysis/Global Outliers.md",
+    "University Resources/Current/Secondary Data Analysis/STATA Command Guide.md",
+    "University Resources/Current/Secondary Data Analysis/statacheatsheets.pdf",
+    "Home.md",
+    "Index.md.md",
+    "lib/media/neurobiological-models-of-adolescence.png",
+    "lib/media/distance-5.png",
+    "lib/media/1.-glm-overview-part-i.png",
+    "lib/media/1.-glm-overview-part-i-1.png",
+    "lib/media/1.-glm-overview-part-i-2.png",
+    "lib/media/1.-glm-overview-part-i-1-1.png",
+    "lib/media/1.-glm-overview-part-i-2-1.png",
+    "lib/media/1.-glm-overview-part-i-3.png",
+    "lib/media/1.-glm-overview-part-i-4.png",
+    "lib/media/2.-multiple-regression-review.png",
+    "lib/media/2.-multiple-regression-review-1.png",
+    "lib/media/2.-multiple-regression-review-2.png",
+    "lib/media/2.-multiple-regression-review-3-1.png",
+    "lib/media/2.-multiple-regression-review-4.png",
+    "lib/media/2.-multiple-regression-review-5.png",
+    "lib/media/2.-multiple-regression-review-6.png",
+    "lib/media/2.-multiple-regression-review-7.png",
+    "lib/media/2.-multiple-regression-review-8.png",
+    "lib/media/2.-multiple-regression-review-9.png",
+    "lib/media/2.-multiple-regression-review-10.png",
+    "lib/media/2.-multiple-regression-review-11.png",
+    "lib/media/2.-multiple-regression-review-12.png",
+    "lib/media/2.-multiple-regression-review-13.png",
+    "lib/media/2.-multiple-regression-review-14.png",
+    "lib/media/2.-multiple-regression-review-15.png",
+    "lib/media/2.-multiple-regression-review-16.png",
+    "lib/media/2.-multiple-regression-review-17.png",
+    "lib/media/2.-multiple-regression-review-18.png",
+    "lib/media/2.-multiple-regression-review-19.png",
+    "lib/media/2.-multiple-regression-review-20.png",
+    "lib/media/2.-multiple-regression-review-1-1.png",
+    "lib/media/2.-multiple-regression-review-2-1.png",
+    "lib/media/2.-multiple-regression-review-4-1.png",
+    "lib/media/2.-multiple-regression-review-5-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics.png",
+    "lib/media/4.-diagnostics-and-psychometrics-2.png",
+    "lib/media/4.-diagnostics-and-psychometrics-3.png",
+    "lib/media/4.-diagnostics-and-psychometrics-4.png",
+    "lib/media/4.-diagnostics-and-psychometrics-5.png",
+    "lib/media/4.-diagnostics-and-psychometrics-6.png",
+    "lib/media/4.-diagnostics-and-psychometrics-7.png",
+    "lib/media/4.-diagnostics-and-psychometrics-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-1-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-2-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-3-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-4-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-5-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-6-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-7-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-8.png",
+    "lib/media/4.-diagnostics-and-psychometrics-9.png",
+    "lib/media/4.-diagnostics-and-psychometrics-10.png",
+    "lib/media/4.-diagnostics-and-psychometrics-11.png",
+    "lib/media/4.-diagnostics-and-psychometrics-12.png",
+    "lib/media/4.-diagnostics-and-psychometrics-13.png",
+    "lib/media/interaction-=-moderation.png",
+    "lib/media/5.-conditional-process-analysis.png",
+    "lib/media/5.-conditional-process-analysis-1.png",
+    "lib/media/5.-conditional-process-analysis-2.png",
+    "lib/media/5.-conditional-process-analysis-3.png",
+    "lib/media/mediation-(indirect-effects).png",
+    "lib/media/5.-conditional-process-analysis-4.png",
+    "lib/media/5.-conditional-process-analysis-5.png",
+    "lib/media/5.-conditional-process-analysis-6.png",
+    "lib/media/process-output-(moderation).png",
+    "lib/media/process-output-(mediation).png",
+    "lib/media/5.-conditional-process-analysis-7.png",
+    "lib/media/5.-conditional-process-analysis-8.png",
+    "lib/media/5.-conditional-process-analysis-9.png",
+    "lib/media/5.-conditional-process-analysis-10.png",
+    "lib/media/5.-conditional-process-analysis-11.png",
+    "lib/media/5.-conditional-process-analysis-12.png",
+    "lib/media/5.-conditional-process-analysis-13.png",
+    "lib/media/5.-conditional-process-analysis-14.png",
+    "lib/media/5.-conditional-process-analysis-15.png",
+    "lib/media/5.-conditional-process-analysis-16.png",
+    "lib/media/5.-conditional-process-analysis-17.png",
+    "lib/media/5.-conditional-process-analysis-18.png",
+    "lib/media/5.-conditional-process-analysis-19.png",
+    "lib/media/5.-conditional-process-analysis-20.png",
+    "lib/media/5.-conditional-process-analysis-21.png",
+    "lib/media/5.-conditional-process-analysis-22.png",
+    "lib/media/5.-conditional-process-analysis-23.png",
+    "lib/media/5.-conditional-process-analysis-24.png",
+    "lib/media/5.-conditional-process-analysis-25.png",
+    "lib/media/5.-conditional-process-analysis-26.png",
+    "lib/media/5.-conditional-process-analysis-27.png",
+    "lib/media/5.-conditional-process-analysis-28.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-12.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-13.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-14.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-15.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-16.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-18.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-17.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-19.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-20.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-21.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-22.png",
+    "lib/media/6.-analysis-of-covariance-(ancova).png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-1.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-3.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-4.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-5.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-6.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-7.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-8.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-9.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-10.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-11.png",
+    "lib/media/7.-repeated-measures-designs.png",
+    "lib/media/pasted-image-20250129080138.png",
+    "lib/media/simple-linear-regression-(slr).png",
+    "lib/media/testing-homoscedasticity-example.png",
+    "lib/media/testing-linearity.png",
+    "lib/media/pasted-image-20250129081552.png",
+    "lib/media/testing-for-extreme-outliers.png",
+    "lib/media/testing-the-independence-of-error.png",
+    "lib/media/testing-for-normality.png",
+    "lib/media/testing-for-normality-1.png",
+    "lib/media/testing-for-normality-2.png",
+    "lib/media/testing-for-normality-histogram-example.png",
+    "lib/media/social-science-secondary-data-archives-table.jpeg",
+    "lib/media/3.-sharing-and-accessing-secondary-data.png",
+    "lib/media/3.-sharing-and-accessing-secondary-data-1.png",
+    "lib/media/3.-sharing-and-accessing-secondary-data-2.png",
+    "lib/media/3.-sharing-and-accessing-secondary-data-3.png",
+    "lib/media/3.-sharing-and-accessing-secondary-data-4.png",
+    "lib/media/5.-stata-basics-and-data-management.png",
+    "lib/media/5.-stata-basics-and-data-management-1.png",
+    "lib/media/5.-stata-basics-and-data-management-2.png",
+    "lib/media/5.-stata-basics-and-data-management-3.png",
+    "lib/media/5.-stata-basics-and-data-management-4.png",
+    "lib/media/5.-stata-basics-and-data-management-5.png",
+    "lib/media/5.-stata-basics-and-data-management-6.png",
+    "lib/media/5.-stata-basics-and-data-management-7.png",
+    "lib/media/5.-stata-basics-and-data-management-8.png",
+    "lib/media/5.-stata-basics-and-data-management-9.png",
+    "lib/media/6.-variable-selection-&-data-relationships.png",
+    "lib/media/6.-variable-selection-&-data-relationships-1.png",
+    "lib/media/6.-variable-selection-&-data-relationships-2.png",
+    "lib/media/6.-variable-selection-&-data-relationships-3.png",
+    "lib/media/6.-variable-selection-&-data-relationships-4.png",
+    "lib/media/6.-variable-selection-&-data-relationships-6.png",
+    "lib/media/6.-variable-selection-&-data-relationships-7.png",
+    "lib/media/6.-variable-selection-&-data-relationships-8.png",
+    "lib/media/6.-variable-selection-&-data-relationships-9.png",
+    "lib/media/6.-variable-selection-&-data-relationships-10.png",
+    "lib/media/6.-variable-selection-&-data-relationships-11.png",
+    "lib/media/6.-variable-selection-&-data-relationships-12.png",
+    "lib/media/7.-sampling-&-complex-designs.png",
+    "lib/media/7.-sampling-&-complex-designs-1.png",
+    "lib/media/7.-sampling-&-complex-designs-2.png",
+    "lib/media/7.-sampling-&-complex-designs-3.png",
+    "lib/media/7.-sampling-&-complex-designs-4.png",
+    "lib/media/7.-sampling-&-complex-designs-5.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "University Resources/Current/Adolescent and Emerging Adulthood/4. Cognitive & Neurological Development/@caseySimpleModelsSelfControl2015.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 2409,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/4.-cognitive-&-neurological-development/@caseysimplemodelsselfcontrol2015.html",
+      "dependencies": [
+        "lib/media/neurobiological-models-of-adolescence.png"
+      ]
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/4. Cognitive & Neurological Development/4. Cognitive & Neurological Development.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 92,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/4.-cognitive-&-neurological-development/4.-cognitive-&-neurological-development.html",
+      "dependencies": [
+        "lib/media/neurobiological-models-of-adolescence.png"
+      ]
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@atkinQualitativeExaminationFamilial2022.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 11539,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@atkinqualitativeexaminationfamilial2022.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@crocettiIdentityFormationAdolescence2017.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 1453,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@crocettiidentityformationadolescence2017.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@loydRacialEthnicSocialization2018.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 1345,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@loydracialethnicsocialization2018.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@sladekItsAllMix2022.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 1823,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@sladekitsallmix2022.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@sundarBrownItBring2008.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 666,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@sundarbrownitbring2008.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@umana-taylorEthnicRacialSocialization2020.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 1746,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@umana-taylorethnicracialsocialization2020.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/5. Racial and Ethnic Identity Development.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/5.-racial-and-ethnic-identity-development.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/1..md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 3334,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/1..html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/7. Family Influences.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 5848,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/7.-family-influences.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/Untitled Kanban.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 2484,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/untitled-kanban.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Final Project/Untitled.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 243,
+      "exportedPath": "university-resources/current/glm-2/final-project/untitled.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/HW/HW 1.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 2820,
+      "exportedPath": "university-resources/current/glm-2/hw/hw-1.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/HW/HW 2.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 13125,
+      "exportedPath": "university-resources/current/glm-2/hw/hw-2.html",
+      "dependencies": [
+        "lib/media/distance-5.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/HW/HW 3.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 23686,
+      "exportedPath": "university-resources/current/glm-2/hw/hw-3.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/In-Class Content/1. GLM Overview Part I.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 10143,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/1.-glm-overview-part-i.html",
+      "dependencies": [
+        "lib/media/1.-glm-overview-part-i.png",
+        "lib/media/1.-glm-overview-part-i-1.png",
+        "lib/media/1.-glm-overview-part-i-2.png",
+        "lib/media/1.-glm-overview-part-i-1.png",
+        "lib/media/1.-glm-overview-part-i-1-1.png",
+        "lib/media/1.-glm-overview-part-i-2-1.png",
+        "lib/media/1.-glm-overview-part-i-3.png",
+        "lib/media/1.-glm-overview-part-i-4.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/2. Multiple Regression Review.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 21851,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/2.-multiple-regression-review.html",
+      "dependencies": [
+        "lib/media/2.-multiple-regression-review.png",
+        "lib/media/2.-multiple-regression-review-1.png",
+        "lib/media/2.-multiple-regression-review-2.png",
+        "lib/media/2.-multiple-regression-review-3-1.png",
+        "lib/media/2.-multiple-regression-review-4.png",
+        "lib/media/2.-multiple-regression-review-5.png",
+        "lib/media/2.-multiple-regression-review-6.png",
+        "lib/media/2.-multiple-regression-review-7.png",
+        "lib/media/2.-multiple-regression-review-8.png",
+        "lib/media/2.-multiple-regression-review-9.png",
+        "lib/media/2.-multiple-regression-review-10.png",
+        "lib/media/2.-multiple-regression-review-11.png",
+        "lib/media/2.-multiple-regression-review-10.png",
+        "lib/media/2.-multiple-regression-review-12.png",
+        "lib/media/2.-multiple-regression-review-13.png",
+        "lib/media/2.-multiple-regression-review-14.png",
+        "lib/media/2.-multiple-regression-review-15.png",
+        "lib/media/2.-multiple-regression-review-16.png",
+        "lib/media/2.-multiple-regression-review-17.png",
+        "lib/media/2.-multiple-regression-review-18.png",
+        "lib/media/2.-multiple-regression-review-19.png",
+        "lib/media/2.-multiple-regression-review-20.png",
+        "lib/media/2.-multiple-regression-review-1.png",
+        "lib/media/2.-multiple-regression-review-1-1.png",
+        "lib/media/2.-multiple-regression-review-2-1.png",
+        "lib/media/2.-multiple-regression-review-3-1.png",
+        "lib/media/2.-multiple-regression-review-4-1.png",
+        "lib/media/2.-multiple-regression-review-5-1.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/4. Diagnostics and Psychometrics.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 12642,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/4.-diagnostics-and-psychometrics.html",
+      "dependencies": [
+        "lib/media/4.-diagnostics-and-psychometrics.png",
+        "lib/media/4.-diagnostics-and-psychometrics-2.png",
+        "lib/media/4.-diagnostics-and-psychometrics-3.png",
+        "lib/media/4.-diagnostics-and-psychometrics-4.png",
+        "lib/media/4.-diagnostics-and-psychometrics-5.png",
+        "lib/media/4.-diagnostics-and-psychometrics-6.png",
+        "lib/media/4.-diagnostics-and-psychometrics-7.png",
+        "lib/media/4.-diagnostics-and-psychometrics-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-1-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-2-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-3-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-4-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-5-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-6-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-7-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-8.png",
+        "lib/media/4.-diagnostics-and-psychometrics-9.png",
+        "lib/media/4.-diagnostics-and-psychometrics-10.png",
+        "lib/media/4.-diagnostics-and-psychometrics-11.png",
+        "lib/media/4.-diagnostics-and-psychometrics-12.png",
+        "lib/media/4.-diagnostics-and-psychometrics-13.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/5. Conditional Process Analysis.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 19194,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/5.-conditional-process-analysis.html",
+      "dependencies": [
+        "lib/media/interaction-=-moderation.png",
+        "lib/media/5.-conditional-process-analysis.png",
+        "lib/media/5.-conditional-process-analysis-1.png",
+        "lib/media/5.-conditional-process-analysis-2.png",
+        "lib/media/5.-conditional-process-analysis-3.png",
+        "lib/media/mediation-(indirect-effects).png",
+        "lib/media/5.-conditional-process-analysis-4.png",
+        "lib/media/5.-conditional-process-analysis-5.png",
+        "lib/media/5.-conditional-process-analysis-6.png",
+        "lib/media/process-output-(moderation).png",
+        "lib/media/process-output-(mediation).png",
+        "lib/media/5.-conditional-process-analysis-7.png",
+        "lib/media/5.-conditional-process-analysis-8.png",
+        "lib/media/5.-conditional-process-analysis-9.png",
+        "lib/media/5.-conditional-process-analysis-10.png",
+        "lib/media/5.-conditional-process-analysis-11.png",
+        "lib/media/5.-conditional-process-analysis-12.png",
+        "lib/media/5.-conditional-process-analysis-13.png",
+        "lib/media/5.-conditional-process-analysis-14.png",
+        "lib/media/5.-conditional-process-analysis-15.png",
+        "lib/media/5.-conditional-process-analysis-16.png",
+        "lib/media/5.-conditional-process-analysis-17.png",
+        "lib/media/5.-conditional-process-analysis-18.png",
+        "lib/media/5.-conditional-process-analysis-19.png",
+        "lib/media/5.-conditional-process-analysis-20.png",
+        "lib/media/5.-conditional-process-analysis-21.png",
+        "lib/media/5.-conditional-process-analysis-22.png",
+        "lib/media/5.-conditional-process-analysis-23.png",
+        "lib/media/5.-conditional-process-analysis-24.png",
+        "lib/media/5.-conditional-process-analysis-25.png",
+        "lib/media/5.-conditional-process-analysis-26.png",
+        "lib/media/5.-conditional-process-analysis-27.png",
+        "lib/media/5.-conditional-process-analysis-28.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/6. Analysis of Covariance (ANCOVA).md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 16638,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/6.-analysis-of-covariance-(ancova).html",
+      "dependencies": [
+        "lib/media/6.-analysis-of-covariance-(ancova)-12.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-13.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-14.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-15.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-16.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-18.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-17.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-19.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-20.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-21.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-22.png",
+        "lib/media/6.-analysis-of-covariance-(ancova).png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-1.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-3.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-4.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-5.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-6.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-7.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-8.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-9.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-10.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-11.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/7. Repeated Measures Designs.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 16828,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/7.-repeated-measures-designs.html",
+      "dependencies": [
+        "lib/media/7.-repeated-measures-designs.png",
+        "lib/media/7.-repeated-measures-designs.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/8. Mixed Designs. Split-Plot and Mixed ANOVA.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 2647,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/8.-mixed-designs.-split-plot-and-mixed-anova.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/In-Class Content/9. Best Practices for Reporting & Discussing Results in APA Style.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 79,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/9.-best-practices-for-reporting-&-discussing-results-in-apa-style.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/In-Class Content/10. Introduction to GLzM. Binary Logistic Regression.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 79,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/10.-introduction-to-glzm.-binary-logistic-regression.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/In-Class Content/11. Regressions with Categorical Data. Multinomial & Ordinal Logistic Regression.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 79,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/11.-regressions-with-categorical-data.-multinomial-&-ordinal-logistic-regression.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/In-Class Content/12. Regression with Count Data. Negative Binomial Regression & Poisson Regression.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 79,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/12.-regression-with-count-data.-negative-binomial-regression-&-poisson-regression.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/In-Class Content/13. Special Topics.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/13.-special-topics.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Analysis of Covariance (ANCOVA).md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 5173,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/analysis-of-covariance-(ancova).html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Conditional Process Analysis.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 42,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/conditional-process-analysis.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Distance.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 314,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/distance.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Exploratory Factor Analysis (EFA).md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 74,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/exploratory-factor-analysis-(efa).html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Face Validity.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 107,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/face-validity.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Homogeneity of Regression Slopes.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 55,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/homogeneity-of-regression-slopes.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Homogeneity of Variances.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 45,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/homogeneity-of-variances.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Influence.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 239,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/influence.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Leverage.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 307,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/leverage.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Main Effects Parameterization.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 81,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/main-effects-parameterization.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Moderator.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/moderator.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Simple Contrasts.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 728,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/simple-contrasts.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Sphericity.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 137,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/sphericity.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Two-Way ANOVA.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 7599,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/two-way-anova.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Analytical Decision Tree for GLM.canvas": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 36271,
+      "exportedPath": "university-resources/current/glm-2/analytical-decision-tree-for-glm.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/General Overview of GLM & GLzM.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 14803,
+      "exportedPath": "university-resources/current/glm-2/general-overview-of-glm-&-glzm.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/GLM 2.canvas": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 14285,
+      "exportedPath": "university-resources/current/glm-2/glm-2.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250129080138.png",
+        "lib/media/simple-linear-regression-(slr).png",
+        "lib/media/testing-homoscedasticity-example.png",
+        "lib/media/testing-linearity.png",
+        "lib/media/pasted-image-20250129081552.png",
+        "lib/media/testing-for-extreme-outliers.png",
+        "lib/media/2.-multiple-regression-review-13.png",
+        "lib/media/2.-multiple-regression-review-12.png",
+        "lib/media/testing-the-independence-of-error.png",
+        "lib/media/testing-for-normality.png",
+        "lib/media/testing-for-normality-1.png",
+        "lib/media/testing-for-normality-2.png",
+        "lib/media/testing-for-normality-histogram-example.png",
+        "lib/media/2.-multiple-regression-review-14.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/MANCOVA (Multivariate Analysis of Covariance).md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 5224,
+      "exportedPath": "university-resources/current/glm-2/mancova-(multivariate-analysis-of-covariance).html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Mediation.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 26994,
+      "exportedPath": "university-resources/current/glm-2/mediation.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Parallel Mediation.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 3074,
+      "exportedPath": "university-resources/current/glm-2/parallel-mediation.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Serial Mediation.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 3193,
+      "exportedPath": "university-resources/current/glm-2/serial-mediation.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Untitled.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 3328,
+      "exportedPath": "university-resources/current/glm-2/untitled.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/1. Introduction to Secondary Data Analysis/1. Introduction to Secondary Data Analysis.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 2263,
+      "exportedPath": "university-resources/current/secondary-data-analysis/1.-introduction-to-secondary-data-analysis/1.-introduction-to-secondary-data-analysis.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@davis-keanAnsweringDevelopmentalQuestions2015.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 10277,
+      "exportedPath": "university-resources/current/secondary-data-analysis/2.-research-questions-and-research-ethics/readings/@davis-keanansweringdevelopmentalquestions2015.html",
+      "dependencies": [
+        "lib/media/social-science-secondary-data-archives-table.jpeg"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@pengArtDataScience2018.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 8249,
+      "exportedPath": "university-resources/current/secondary-data-analysis/2.-research-questions-and-research-ethics/readings/@pengartdatascience2018.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@schwartzImportanceStupidityScientific2008.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 3044,
+      "exportedPath": "university-resources/current/secondary-data-analysis/2.-research-questions-and-research-ethics/readings/@schwartzimportancestupidityscientific2008.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/2. Research Questions and Research Ethics.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 12790,
+      "exportedPath": "university-resources/current/secondary-data-analysis/2.-research-questions-and-research-ethics/2.-research-questions-and-research-ethics.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/3. Sharing and Accessing Secondary Data/3. Sharing and Accessing Secondary Data.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 10371,
+      "exportedPath": "university-resources/current/secondary-data-analysis/3.-sharing-and-accessing-secondary-data/3.-sharing-and-accessing-secondary-data.html",
+      "dependencies": [
+        "lib/media/3.-sharing-and-accessing-secondary-data.png",
+        "lib/media/3.-sharing-and-accessing-secondary-data-1.png",
+        "lib/media/3.-sharing-and-accessing-secondary-data-2.png",
+        "lib/media/3.-sharing-and-accessing-secondary-data-3.png",
+        "lib/media/3.-sharing-and-accessing-secondary-data-4.png"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/4. STATA Basics and Data Management/4. STATA Basics and Data Management.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/4.-stata-basics-and-data-management/4.-stata-basics-and-data-management.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/5. STATA Basics and Data Management/5. STATA Basics and Data Management.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 6863,
+      "exportedPath": "university-resources/current/secondary-data-analysis/5.-stata-basics-and-data-management/5.-stata-basics-and-data-management.html",
+      "dependencies": [
+        "lib/media/5.-stata-basics-and-data-management.png",
+        "lib/media/5.-stata-basics-and-data-management-1.png",
+        "lib/media/5.-stata-basics-and-data-management-2.png",
+        "lib/media/5.-stata-basics-and-data-management-3.png",
+        "lib/media/5.-stata-basics-and-data-management-4.png",
+        "lib/media/5.-stata-basics-and-data-management-5.png",
+        "lib/media/5.-stata-basics-and-data-management-6.png",
+        "lib/media/5.-stata-basics-and-data-management-7.png",
+        "lib/media/5.-stata-basics-and-data-management-8.png",
+        "lib/media/5.-stata-basics-and-data-management-9.png"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/6. Variable Selection & Data Relationships.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 8270,
+      "exportedPath": "university-resources/current/secondary-data-analysis/6.-variable-selection-&-data-relationships.html",
+      "dependencies": [
+        "lib/media/6.-variable-selection-&-data-relationships.png",
+        "lib/media/6.-variable-selection-&-data-relationships-1.png",
+        "lib/media/6.-variable-selection-&-data-relationships-2.png",
+        "lib/media/6.-variable-selection-&-data-relationships-3.png",
+        "lib/media/6.-variable-selection-&-data-relationships-4.png",
+        "lib/media/6.-variable-selection-&-data-relationships-6.png",
+        "lib/media/6.-variable-selection-&-data-relationships-7.png",
+        "lib/media/6.-variable-selection-&-data-relationships-8.png",
+        "lib/media/6.-variable-selection-&-data-relationships-9.png",
+        "lib/media/6.-variable-selection-&-data-relationships-10.png",
+        "lib/media/6.-variable-selection-&-data-relationships-11.png",
+        "lib/media/6.-variable-selection-&-data-relationships-12.png"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/7. Sampling & Complex Designs.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 6689,
+      "exportedPath": "university-resources/current/secondary-data-analysis/7.-sampling-&-complex-designs.html",
+      "dependencies": [
+        "lib/media/7.-sampling-&-complex-designs.png",
+        "lib/media/7.-sampling-&-complex-designs-1.png",
+        "lib/media/7.-sampling-&-complex-designs-2.png",
+        "lib/media/7.-sampling-&-complex-designs-3.png",
+        "lib/media/7.-sampling-&-complex-designs-4.png",
+        "lib/media/7.-sampling-&-complex-designs-5.png"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/9. Missing Data.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/9.-missing-data.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/10. Data Relationships.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/10.-data-relationships.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/11. Replication, Reproducibility, & Questionable.Fraudulent Practices.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/11.-replication,-reproducibility,-&-questionable.fraudulent-practices.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/12. Preregistration & Registered Reports.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/12.-preregistration-&-registered-reports.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/13. Lab Time.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/13.-lab-time.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/14. Discuss Research Study & Findings.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/14.-discuss-research-study-&-findings.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/Class Activity.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 3558,
+      "exportedPath": "university-resources/current/secondary-data-analysis/class-activity.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/Contextual Outlier.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 73,
+      "exportedPath": "university-resources/current/secondary-data-analysis/contextual-outlier.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/Global Outliers.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 53,
+      "exportedPath": "university-resources/current/secondary-data-analysis/global-outliers.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/STATA Command Guide.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 4729,
+      "exportedPath": "university-resources/current/secondary-data-analysis/stata-command-guide.html",
+      "dependencies": [
+        "lib/media/5.-stata-basics-and-data-management-4.png"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/statacheatsheets.pdf": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 6223556,
+      "exportedPath": "university-resources/current/secondary-data-analysis/statacheatsheets.pdf",
+      "dependencies": []
+    },
+    "Home.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 200,
+      "exportedPath": "home.html",
+      "dependencies": []
+    },
+    "Index.md.md": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 0,
+      "exportedPath": "index.md.html",
+      "dependencies": []
+    },
+    "lib/media/neurobiological-models-of-adolescence.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 152413,
+      "exportedPath": "lib/media/neurobiological-models-of-adolescence.png",
+      "dependencies": []
+    },
+    "lib/media/distance-5.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 69921,
+      "exportedPath": "lib/media/distance-5.png",
+      "dependencies": []
+    },
+    "lib/media/1.-glm-overview-part-i.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 138625,
+      "exportedPath": "lib/media/1.-glm-overview-part-i.png",
+      "dependencies": []
+    },
+    "lib/media/1.-glm-overview-part-i-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 210893,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-1.png",
+      "dependencies": []
+    },
+    "lib/media/1.-glm-overview-part-i-2.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 253875,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-2.png",
+      "dependencies": []
+    },
+    "lib/media/1.-glm-overview-part-i-1-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 333976,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-1-1.png",
+      "dependencies": []
+    },
+    "lib/media/1.-glm-overview-part-i-2-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 173261,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-2-1.png",
+      "dependencies": []
+    },
+    "lib/media/1.-glm-overview-part-i-3.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 111009,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-3.png",
+      "dependencies": []
+    },
+    "lib/media/1.-glm-overview-part-i-4.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 262338,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-4.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 1027714,
+      "exportedPath": "lib/media/2.-multiple-regression-review.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 1790647,
+      "exportedPath": "lib/media/2.-multiple-regression-review-1.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-2.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 2010957,
+      "exportedPath": "lib/media/2.-multiple-regression-review-2.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-3-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 228747,
+      "exportedPath": "lib/media/2.-multiple-regression-review-3-1.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-4.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 40183,
+      "exportedPath": "lib/media/2.-multiple-regression-review-4.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-5.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 256788,
+      "exportedPath": "lib/media/2.-multiple-regression-review-5.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-6.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 779985,
+      "exportedPath": "lib/media/2.-multiple-regression-review-6.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-7.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 706312,
+      "exportedPath": "lib/media/2.-multiple-regression-review-7.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-8.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 487886,
+      "exportedPath": "lib/media/2.-multiple-regression-review-8.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-9.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 151909,
+      "exportedPath": "lib/media/2.-multiple-regression-review-9.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-10.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 58246,
+      "exportedPath": "lib/media/2.-multiple-regression-review-10.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-11.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 58070,
+      "exportedPath": "lib/media/2.-multiple-regression-review-11.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-12.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 339749,
+      "exportedPath": "lib/media/2.-multiple-regression-review-12.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-13.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 302909,
+      "exportedPath": "lib/media/2.-multiple-regression-review-13.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-14.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 337309,
+      "exportedPath": "lib/media/2.-multiple-regression-review-14.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-15.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 107875,
+      "exportedPath": "lib/media/2.-multiple-regression-review-15.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-16.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 164844,
+      "exportedPath": "lib/media/2.-multiple-regression-review-16.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-17.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 112034,
+      "exportedPath": "lib/media/2.-multiple-regression-review-17.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-18.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 201891,
+      "exportedPath": "lib/media/2.-multiple-regression-review-18.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-19.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 182735,
+      "exportedPath": "lib/media/2.-multiple-regression-review-19.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-20.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 348100,
+      "exportedPath": "lib/media/2.-multiple-regression-review-20.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-1-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 189940,
+      "exportedPath": "lib/media/2.-multiple-regression-review-1-1.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-2-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 229695,
+      "exportedPath": "lib/media/2.-multiple-regression-review-2-1.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-4-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 52751,
+      "exportedPath": "lib/media/2.-multiple-regression-review-4-1.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-5-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 107279,
+      "exportedPath": "lib/media/2.-multiple-regression-review-5-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 30936,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-2.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 17595,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-2.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-3.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 79139,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-3.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-4.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 149337,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-4.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-5.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 129632,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-5.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-6.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 153887,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-6.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-7.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 80294,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-7.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 192787,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-1-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 134479,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-1-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-2-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 236636,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-2-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-3-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 27916,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-3-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-4-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 241618,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-4-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-5-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 28606,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-5-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-6-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 363776,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-6-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-7-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 19159,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-7-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-8.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 120016,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-8.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-9.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 95650,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-9.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-10.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 98453,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-10.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-11.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 39392,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-11.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-12.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 118206,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-12.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-13.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 164500,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-13.png",
+      "dependencies": []
+    },
+    "lib/media/interaction-=-moderation.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 60590,
+      "exportedPath": "lib/media/interaction-=-moderation.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 234804,
+      "exportedPath": "lib/media/5.-conditional-process-analysis.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 80866,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-1.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-2.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 92281,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-2.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-3.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 197287,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-3.png",
+      "dependencies": []
+    },
+    "lib/media/mediation-(indirect-effects).png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 106091,
+      "exportedPath": "lib/media/mediation-(indirect-effects).png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-4.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 55326,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-4.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-5.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 89525,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-5.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-6.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 153656,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-6.png",
+      "dependencies": []
+    },
+    "lib/media/process-output-(moderation).png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 375756,
+      "exportedPath": "lib/media/process-output-(moderation).png",
+      "dependencies": []
+    },
+    "lib/media/process-output-(mediation).png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 295251,
+      "exportedPath": "lib/media/process-output-(mediation).png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-7.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 292493,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-7.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-8.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 118953,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-8.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-9.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 203083,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-9.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-10.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 205578,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-10.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-11.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 92019,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-11.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-12.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 263466,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-12.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-13.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 399570,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-13.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-14.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 261936,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-14.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-15.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 222236,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-15.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-16.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 203491,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-16.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-17.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 61373,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-17.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-18.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 63060,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-18.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-19.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 53398,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-19.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-20.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 731108,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-20.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-21.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 162319,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-21.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-22.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 28824,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-22.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-23.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 186121,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-23.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-24.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 107118,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-24.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-25.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 74446,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-25.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-26.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 97347,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-26.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-27.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 90150,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-27.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-28.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 181265,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-28.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-12.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 238922,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-12.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-13.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 57787,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-13.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-14.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 150318,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-14.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-15.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 145933,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-15.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-16.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 66553,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-16.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-18.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 80498,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-18.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-17.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 78740,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-17.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-19.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 44503,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-19.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-20.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 44471,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-20.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-21.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 214646,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-21.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-22.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 190148,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-22.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova).png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 56693,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova).png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 48154,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-1.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-3.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 162735,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-3.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-4.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 123444,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-4.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-5.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 201196,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-5.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-6.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 175722,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-6.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-7.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 163050,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-7.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-8.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 160091,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-8.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-9.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 215038,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-9.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-10.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 257829,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-10.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-11.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 170606,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-11.png",
+      "dependencies": []
+    },
+    "lib/media/7.-repeated-measures-designs.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 266433,
+      "exportedPath": "lib/media/7.-repeated-measures-designs.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250129080138.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 145772,
+      "exportedPath": "lib/media/pasted-image-20250129080138.png",
+      "dependencies": []
+    },
+    "lib/media/simple-linear-regression-(slr).png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 253951,
+      "exportedPath": "lib/media/simple-linear-regression-(slr).png",
+      "dependencies": []
+    },
+    "lib/media/testing-homoscedasticity-example.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 66439,
+      "exportedPath": "lib/media/testing-homoscedasticity-example.png",
+      "dependencies": []
+    },
+    "lib/media/testing-linearity.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 55126,
+      "exportedPath": "lib/media/testing-linearity.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250129081552.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 116406,
+      "exportedPath": "lib/media/pasted-image-20250129081552.png",
+      "dependencies": []
+    },
+    "lib/media/testing-for-extreme-outliers.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 124716,
+      "exportedPath": "lib/media/testing-for-extreme-outliers.png",
+      "dependencies": []
+    },
+    "lib/media/testing-the-independence-of-error.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 48778,
+      "exportedPath": "lib/media/testing-the-independence-of-error.png",
+      "dependencies": []
+    },
+    "lib/media/testing-for-normality.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 57758,
+      "exportedPath": "lib/media/testing-for-normality.png",
+      "dependencies": []
+    },
+    "lib/media/testing-for-normality-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 6770,
+      "exportedPath": "lib/media/testing-for-normality-1.png",
+      "dependencies": []
+    },
+    "lib/media/testing-for-normality-2.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 53367,
+      "exportedPath": "lib/media/testing-for-normality-2.png",
+      "dependencies": []
+    },
+    "lib/media/testing-for-normality-histogram-example.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 70149,
+      "exportedPath": "lib/media/testing-for-normality-histogram-example.png",
+      "dependencies": []
+    },
+    "lib/media/social-science-secondary-data-archives-table.jpeg": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 938724,
+      "exportedPath": "lib/media/social-science-secondary-data-archives-table.jpeg",
+      "dependencies": []
+    },
+    "lib/media/3.-sharing-and-accessing-secondary-data.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 444605,
+      "exportedPath": "lib/media/3.-sharing-and-accessing-secondary-data.png",
+      "dependencies": []
+    },
+    "lib/media/3.-sharing-and-accessing-secondary-data-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 276820,
+      "exportedPath": "lib/media/3.-sharing-and-accessing-secondary-data-1.png",
+      "dependencies": []
+    },
+    "lib/media/3.-sharing-and-accessing-secondary-data-2.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 286883,
+      "exportedPath": "lib/media/3.-sharing-and-accessing-secondary-data-2.png",
+      "dependencies": []
+    },
+    "lib/media/3.-sharing-and-accessing-secondary-data-3.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 483934,
+      "exportedPath": "lib/media/3.-sharing-and-accessing-secondary-data-3.png",
+      "dependencies": []
+    },
+    "lib/media/3.-sharing-and-accessing-secondary-data-4.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 240106,
+      "exportedPath": "lib/media/3.-sharing-and-accessing-secondary-data-4.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 259073,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 5764,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-1.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-2.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 11503,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-2.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-3.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 11389,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-3.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-4.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 174296,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-4.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-5.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 45861,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-5.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-6.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 52735,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-6.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-7.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 52735,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-7.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-8.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 134793,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-8.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-9.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 65323,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-9.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 94392,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 839422,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-1.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-2.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 1317073,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-2.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-3.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 268154,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-3.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-4.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 145091,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-4.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-6.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 77391,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-6.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-7.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 301965,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-7.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-8.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 113084,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-8.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-9.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 113839,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-9.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-10.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 50849,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-10.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-11.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 150037,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-11.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-12.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 484166,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-12.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 215039,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs-1.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 246135,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs-1.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs-2.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 116603,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs-2.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs-3.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 93258,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs-3.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs-4.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 16278,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs-4.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs-5.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 20219,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs-5.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 41706,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 10397,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 137466,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 261027,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 31316,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 337,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 2878,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1742998258710,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
