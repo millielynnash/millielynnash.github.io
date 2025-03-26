@@ -1,114 +1,263 @@
 {
   "vaultName": "Millie's Vault",
-  "lastExport": 1743006784600,
+  "lastExport": 1743007941808,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager native-scrollbars theme-light show-ribbon highlightr-rounded outliner-plugin-dnd hide-folder-note folder-note-underline folder-note-underline-path fn-whitespace-stop-collapsing centered-tables full-width-tables rounded-tables oz-show-all-num",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Chernobyl/Causes, Consequences, and Legacy.md",
-    "Clinic Resources/Counseling Against Lethal Means (CALM)/Clients Who Need Lethal Means Counseling.md",
-    "Clinic Resources/Counseling Against Lethal Means (CALM)/Firearms Laws Relevant to Lethal Means Counseling.md",
-    "Clinic Resources/Counseling Against Lethal Means (CALM)/How Clinicians Can Reduce Access to Lethal Means.md",
-    "Clinic Resources/Counseling Against Lethal Means (CALM)/Lethal Means, What Clients Need to Know.md",
-    "Clinic Resources/Counseling Against Lethal Means (CALM)/The Basics of Firearms.md",
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Curriculum/Week 1.md",
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Curriculum/Week 2.md",
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Emotion Regulation/Emotional Awareness Lesson Plan.md",
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Emotion Regulation/Emotions Activities.md",
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Group Therapy Facilitation/Check-Ins & Feedback.md",
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Group Therapy Facilitation/Cross the Line Activity.md",
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Group Therapy Facilitation/Group Check-In Sheet.md",
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Group Therapy Facilitation/Therapist Activities.md",
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Observing a Piece of Fruit.md",
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Agoraphobia.md",
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Anxiety Disorders.md",
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Generalized Anxiety Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Obsessive-Compulsive Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Panic Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Post-Traumatic Stress Disorder (PTSD).md",
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Separation Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Social Anxiety Disorder (Social Phobia).md",
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Specific Phobia.md",
-    "Clinic Resources/Mental Health Conditions/Eating Disorders/Anorexia Nervosa.md",
-    "Clinic Resources/Mental Health Conditions/Eating Disorders/Binge Eating Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Eating Disorders/Bulimia Nervosa.md",
-    "Clinic Resources/Mental Health Conditions/Eating Disorders/Eating Disorders.md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Depression Disorder due to Another Medical Condition.md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Disruptive Mood Dysregulation Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Major Depressive Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Other Specified Depressive Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Perinatal Depression.md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Persistent Depressive Disorder (Dysthymic Disorder).md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Premenstrual Dysphoric Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Seasonal Affective Disorder (SAD).md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Substance or Medication-Induced Depressive Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Unspecified Depressive Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Bipolar Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Mood Disorders.md",
-    "Clinic Resources/Mental Health Conditions/Attention-Deficit-Hyperactivity Disorder (ADHD).md",
-    "Clinic Resources/Mental Health Conditions/Autism Spectrum Disorder (ASD).md",
-    "Clinic Resources/Mental Health Conditions/Bipolar I Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Borderline Personality Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Conduct Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Female Orgasmic Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Female Sexual Interest (Arousal Disorder).md",
-    "Clinic Resources/Mental Health Conditions/Genito-Pelvic Pain (Penetration Disorder) (GPPPD).md",
-    "Clinic Resources/Mental Health Conditions/Intermittent Explosive Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Male Hypoactive Sexual Desire Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Oppositional Defiant Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Schizophrenia.md",
-    "Clinic Resources/Mental Health Conditions/Separation Anxiety Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Substance Use Disorder.md",
-    "Clinic Resources/Mental Health Conditions/Trauma and Stressor-Related Disorder.png",
-    "Clinic Resources/Training/Gottman/Level 1/Diffuse Physiological Arousal.md",
-    "Clinic Resources/Training/Gottman/Level 1/Gottman Level 1 Training Manual.md",
-    "Clinic Resources/Training/Gottman/Level 1/Level 1 Training.pdf",
-    "Clinic Resources/Training/Gottman/Level 1/Level 1 Training Notes.md",
-    "Clinic Resources/Training/CITI Training (2023).md",
-    "Clinic Resources/Training/Counseling Against Lethal Means (CALM).md",
-    "Clinic Resources/Training/De-Escalation through a Trauma-Informed Care Lens.md",
-    "Clinic Resources/Training/Strategies for Working with High Conflict Couples.md",
-    "Clinic Resources/ECR-SF Scoring.md",
-    "Clinic Resources/Preparing for Co-Therapy.md",
-    "Clinic Resources/Questions for Clients.md",
-    "Clinic Resources/Relationship Questionnaire.md",
+    "Research Citations/Articles/@tannerProtectiveFactorsAdverse2025.md",
+    "Research Citations/Books/@gehartMasteringCompetenciesFamily2017.md",
+    "Research Citations/Books/@nicholsFamilyTherapyConcepts2019.md",
+    "Research Citations/Books/Introduction to Criminal Investigation, Processes, Practices, and Thinking.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/4. Cognitive & Neurological Development/@caseySimpleModelsSelfControl2015.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/4. Cognitive & Neurological Development/4. Cognitive & Neurological Development.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@atkinQualitativeExaminationFamilial2022.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@crocettiIdentityFormationAdolescence2017.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@loydRacialEthnicSocialization2018.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@sladekItsAllMix2022.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@sundarBrownItBring2008.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@umana-taylorEthnicRacialSocialization2020.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/5. Racial and Ethnic Identity Development.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/Final Project/Project Outline.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/1..md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/7. Family Influences.md",
+    "University Resources/Current/Adolescent and Emerging Adulthood/Untitled Kanban.md",
+    "University Resources/Current/Family Development (2200)/Announcements.md",
+    "University Resources/Current/Family Development (2200)/Family Development (2200).md",
+    "University Resources/Current/Family Development (2200)/Struggling Students.md",
+    "University Resources/Current/GLM 2/Final Project/Untitled.md",
+    "University Resources/Current/GLM 2/HW/HW 1.md",
+    "University Resources/Current/GLM 2/HW/HW 2.md",
+    "University Resources/Current/GLM 2/HW/HW 3.md",
+    "University Resources/Current/GLM 2/In-Class Content/1. GLM Overview Part I.md",
+    "University Resources/Current/GLM 2/In-Class Content/2. Multiple Regression Review.md",
+    "University Resources/Current/GLM 2/In-Class Content/4. Diagnostics and Psychometrics.md",
+    "University Resources/Current/GLM 2/In-Class Content/5. Conditional Process Analysis.md",
+    "University Resources/Current/GLM 2/In-Class Content/6. Analysis of Covariance (ANCOVA).md",
+    "University Resources/Current/GLM 2/In-Class Content/7. Repeated Measures Designs.md",
+    "University Resources/Current/GLM 2/In-Class Content/8. Mixed Designs. Split-Plot and Mixed ANOVA.md",
+    "University Resources/Current/GLM 2/In-Class Content/9. Best Practices for Reporting & Discussing Results in APA Style.md",
+    "University Resources/Current/GLM 2/In-Class Content/10. Introduction to GLzM. Binary Logistic Regression.md",
+    "University Resources/Current/GLM 2/In-Class Content/11. Regressions with Categorical Data. Multinomial & Ordinal Logistic Regression.md",
+    "University Resources/Current/GLM 2/In-Class Content/12. Regression with Count Data. Negative Binomial Regression & Poisson Regression.md",
+    "University Resources/Current/GLM 2/In-Class Content/13. Special Topics.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Analysis of Covariance (ANCOVA).md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Conditional Process Analysis.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Distance.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Exploratory Factor Analysis (EFA).md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Face Validity.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Homogeneity of Regression Slopes.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Homogeneity of Variances.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Influence.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Leverage.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Main Effects Parameterization.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Moderator.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Simple Contrasts.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Sphericity.md",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Two-Way ANOVA.md",
+    "University Resources/Current/GLM 2/Analytical Decision Tree for GLM.canvas",
+    "University Resources/Current/GLM 2/General Overview of GLM & GLzM.md",
+    "University Resources/Current/GLM 2/GLM 2.canvas",
+    "University Resources/Current/GLM 2/MANCOVA (Multivariate Analysis of Covariance).md",
+    "University Resources/Current/GLM 2/Mediation.md",
+    "University Resources/Current/GLM 2/Parallel Mediation.md",
+    "University Resources/Current/GLM 2/Serial Mediation.md",
+    "University Resources/Current/GLM 2/Untitled.md",
+    "University Resources/Current/GLM 2/Untitled 1.md",
+    "University Resources/Current/GLM 2/Untitled 2.md",
+    "University Resources/Current/Secondary Data Analysis/1. Introduction to Secondary Data Analysis/1. Introduction to Secondary Data Analysis.md",
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@davis-keanAnsweringDevelopmentalQuestions2015.md",
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@pengArtDataScience2018.md",
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@schwartzImportanceStupidityScientific2008.md",
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/2. Research Questions and Research Ethics.md",
+    "University Resources/Current/Secondary Data Analysis/3. Sharing and Accessing Secondary Data/3. Sharing and Accessing Secondary Data.md",
+    "University Resources/Current/Secondary Data Analysis/4. STATA Basics and Data Management/4. STATA Basics and Data Management.md",
+    "University Resources/Current/Secondary Data Analysis/5. STATA Basics and Data Management/5. STATA Basics and Data Management.md",
+    "University Resources/Current/Secondary Data Analysis/6. Variable Selection & Data Relationships.md",
+    "University Resources/Current/Secondary Data Analysis/7. Sampling & Complex Designs.md",
+    "University Resources/Current/Secondary Data Analysis/9. Missing Data.md",
+    "University Resources/Current/Secondary Data Analysis/10. Data Relationships.md",
+    "University Resources/Current/Secondary Data Analysis/11. Replication, Reproducibility, & Questionable.Fraudulent Practices.md",
+    "University Resources/Current/Secondary Data Analysis/12. Preregistration & Registered Reports.md",
+    "University Resources/Current/Secondary Data Analysis/13. Lab Time.md",
+    "University Resources/Current/Secondary Data Analysis/14. Discuss Research Study & Findings.md",
+    "University Resources/Current/Secondary Data Analysis/Assignment 4.md",
+    "University Resources/Current/Secondary Data Analysis/Contextual Outlier.md",
+    "University Resources/Current/Secondary Data Analysis/Global Outliers.md",
+    "University Resources/Current/Secondary Data Analysis/STATA Command Guide.md",
+    "University Resources/Current/Secondary Data Analysis/statacheatsheets.pdf",
     "Index.md",
-    "lib/media/clients-who-need-lethal-means-counseling-1.pdf",
-    "lib/media/firearms-laws-relevant-to-lethal-means-counseling-1.pdf",
-    "lib/media/how-clinicians-can-reduce-access-to-lethal-means.pdf",
-    "lib/media/lethal-means,-what-clients-need-to-know.pdf",
-    "lib/media/the-basics-of-firearms.pdf",
-    "lib/media/agoraphobia.pdf",
-    "lib/media/agoraphobia-1.pdf",
-    "lib/media/agoraphobia-2.pdf",
-    "lib/media/anxiety-disorders.pdf",
-    "lib/media/anxiety-disorders-1.pdf",
-    "lib/media/anxiety-disorders-2.pdf",
-    "lib/media/obsessive-compulsive-disorder.pdf",
-    "lib/media/obsessive-compulsive-disorder-1.pdf",
-    "lib/media/post-traumatic-stress-disorder-(ptsd).pdf",
-    "lib/media/post-traumatic-stress-disorder-(ptsd)-1.pdf",
-    "lib/media/post-traumatic-stress-disorder-(ptsd)-2.pdf",
-    "lib/media/binge-eating-disorder.pdf",
-    "lib/media/bulimia-nervosa.pdf",
-    "lib/media/eating-disorders.pdf",
-    "lib/media/eating-disorders-1.pdf",
-    "lib/media/eating-disorders-2.pdf",
-    "lib/media/persistent-depressive-disorder-(dysthymic-disorder).pdf",
-    "lib/media/persistent-depressive-disorder-(dysthymic-disorder)-1.pdf",
-    "lib/media/seasonal-affective-disorder-(sad).pdf",
-    "lib/media/bipolar-disorder.png",
-    "lib/media/bipolar-disorder-1.png",
-    "lib/media/bipolar-disorder-2.png",
-    "lib/media/mood-disorders.pdf",
-    "lib/media/mood-disorders-1.pdf",
-    "lib/media/mood-disorders-2.pdf",
-    "lib/media/attention-deficit-hyperactivity-disorder-(adhd).pdf",
-    "lib/media/attention-deficit-hyperactivity-disorder-(adhd).png",
-    "lib/media/attention-deficit-hyperactivity-disorder-(adhd)-1.png",
-    "lib/media/attention-deficit-hyperactivity-disorder-(adhd)-2.png",
-    "lib/media/autism-spectrum-disorder-(asd).png",
+    "lib/media/congruent-communication-diagram.png",
+    "lib/media/placator-stance-diagram.png",
+    "lib/media/blamer-stance-diagram.png",
+    "lib/media/superreasonable-stance-diagram.png",
+    "lib/media/irrelevant-stance-diagram.png",
+    "lib/media/case-conceptualization-(satir).pdf",
+    "lib/media/neurobiological-models-of-adolescence.png",
+    "lib/media/announcements.png",
+    "lib/media/announcements-3.png",
+    "lib/media/announcements-4.png",
+    "lib/media/announcements-5.png",
+    "lib/media/announcements-6.png",
+    "lib/media/announcements-7.png",
+    "lib/media/1876-mirror-lake.jpg",
+    "lib/media/1911-mirror-lake.jpg",
+    "lib/media/distance-5.png",
+    "lib/media/1.-glm-overview-part-i.png",
+    "lib/media/1.-glm-overview-part-i-1.png",
+    "lib/media/1.-glm-overview-part-i-2.png",
+    "lib/media/1.-glm-overview-part-i-1-1.png",
+    "lib/media/1.-glm-overview-part-i-2-1.png",
+    "lib/media/1.-glm-overview-part-i-3.png",
+    "lib/media/1.-glm-overview-part-i-4.png",
+    "lib/media/2.-multiple-regression-review.png",
+    "lib/media/2.-multiple-regression-review-1.png",
+    "lib/media/2.-multiple-regression-review-2.png",
+    "lib/media/2.-multiple-regression-review-3-1.png",
+    "lib/media/2.-multiple-regression-review-4.png",
+    "lib/media/2.-multiple-regression-review-5.png",
+    "lib/media/2.-multiple-regression-review-6.png",
+    "lib/media/2.-multiple-regression-review-7.png",
+    "lib/media/2.-multiple-regression-review-8.png",
+    "lib/media/2.-multiple-regression-review-9.png",
+    "lib/media/2.-multiple-regression-review-10.png",
+    "lib/media/2.-multiple-regression-review-11.png",
+    "lib/media/2.-multiple-regression-review-12.png",
+    "lib/media/2.-multiple-regression-review-13.png",
+    "lib/media/2.-multiple-regression-review-14.png",
+    "lib/media/2.-multiple-regression-review-15.png",
+    "lib/media/2.-multiple-regression-review-16.png",
+    "lib/media/2.-multiple-regression-review-17.png",
+    "lib/media/2.-multiple-regression-review-18.png",
+    "lib/media/2.-multiple-regression-review-19.png",
+    "lib/media/2.-multiple-regression-review-20.png",
+    "lib/media/2.-multiple-regression-review-1-1.png",
+    "lib/media/2.-multiple-regression-review-2-1.png",
+    "lib/media/2.-multiple-regression-review-4-1.png",
+    "lib/media/2.-multiple-regression-review-5-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics.png",
+    "lib/media/4.-diagnostics-and-psychometrics-2.png",
+    "lib/media/4.-diagnostics-and-psychometrics-3.png",
+    "lib/media/4.-diagnostics-and-psychometrics-4.png",
+    "lib/media/4.-diagnostics-and-psychometrics-5.png",
+    "lib/media/4.-diagnostics-and-psychometrics-6.png",
+    "lib/media/4.-diagnostics-and-psychometrics-7.png",
+    "lib/media/4.-diagnostics-and-psychometrics-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-1-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-2-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-3-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-4-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-5-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-6-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-7-1.png",
+    "lib/media/4.-diagnostics-and-psychometrics-8.png",
+    "lib/media/4.-diagnostics-and-psychometrics-9.png",
+    "lib/media/4.-diagnostics-and-psychometrics-10.png",
+    "lib/media/4.-diagnostics-and-psychometrics-11.png",
+    "lib/media/4.-diagnostics-and-psychometrics-12.png",
+    "lib/media/4.-diagnostics-and-psychometrics-13.png",
+    "lib/media/interaction-=-moderation.png",
+    "lib/media/5.-conditional-process-analysis.png",
+    "lib/media/5.-conditional-process-analysis-1.png",
+    "lib/media/5.-conditional-process-analysis-2.png",
+    "lib/media/5.-conditional-process-analysis-3.png",
+    "lib/media/mediation-(indirect-effects).png",
+    "lib/media/5.-conditional-process-analysis-4.png",
+    "lib/media/5.-conditional-process-analysis-5.png",
+    "lib/media/5.-conditional-process-analysis-6.png",
+    "lib/media/process-output-(moderation).png",
+    "lib/media/process-output-(mediation).png",
+    "lib/media/5.-conditional-process-analysis-7.png",
+    "lib/media/5.-conditional-process-analysis-8.png",
+    "lib/media/5.-conditional-process-analysis-9.png",
+    "lib/media/5.-conditional-process-analysis-10.png",
+    "lib/media/5.-conditional-process-analysis-11.png",
+    "lib/media/5.-conditional-process-analysis-12.png",
+    "lib/media/5.-conditional-process-analysis-13.png",
+    "lib/media/5.-conditional-process-analysis-14.png",
+    "lib/media/5.-conditional-process-analysis-15.png",
+    "lib/media/5.-conditional-process-analysis-16.png",
+    "lib/media/5.-conditional-process-analysis-17.png",
+    "lib/media/5.-conditional-process-analysis-18.png",
+    "lib/media/5.-conditional-process-analysis-19.png",
+    "lib/media/5.-conditional-process-analysis-20.png",
+    "lib/media/5.-conditional-process-analysis-21.png",
+    "lib/media/5.-conditional-process-analysis-22.png",
+    "lib/media/5.-conditional-process-analysis-23.png",
+    "lib/media/5.-conditional-process-analysis-24.png",
+    "lib/media/5.-conditional-process-analysis-25.png",
+    "lib/media/5.-conditional-process-analysis-26.png",
+    "lib/media/5.-conditional-process-analysis-27.png",
+    "lib/media/5.-conditional-process-analysis-28.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-12.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-13.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-14.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-15.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-16.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-18.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-17.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-19.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-20.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-21.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-22.png",
+    "lib/media/6.-analysis-of-covariance-(ancova).png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-1.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-3.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-4.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-5.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-6.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-7.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-8.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-9.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-10.png",
+    "lib/media/6.-analysis-of-covariance-(ancova)-11.png",
+    "lib/media/7.-repeated-measures-designs.png",
+    "lib/media/simple-linear-regression-(slr).png",
+    "lib/media/pasted-image-20250129080138.png",
+    "lib/media/testing-homoscedasticity-example.png",
+    "lib/media/testing-for-normality.png",
+    "lib/media/testing-for-normality-1.png",
+    "lib/media/testing-for-normality-2.png",
+    "lib/media/testing-for-normality-histogram-example.png",
+    "lib/media/pasted-image-20250129081552.png",
+    "lib/media/testing-for-extreme-outliers.png",
+    "lib/media/testing-the-independence-of-error.png",
+    "lib/media/testing-linearity.png",
+    "lib/media/social-science-secondary-data-archives-table.jpeg",
+    "lib/media/3.-sharing-and-accessing-secondary-data.png",
+    "lib/media/3.-sharing-and-accessing-secondary-data-1.png",
+    "lib/media/3.-sharing-and-accessing-secondary-data-2.png",
+    "lib/media/3.-sharing-and-accessing-secondary-data-3.png",
+    "lib/media/3.-sharing-and-accessing-secondary-data-4.png",
+    "lib/media/5.-stata-basics-and-data-management.png",
+    "lib/media/5.-stata-basics-and-data-management-1.png",
+    "lib/media/5.-stata-basics-and-data-management-2.png",
+    "lib/media/5.-stata-basics-and-data-management-3.png",
+    "lib/media/5.-stata-basics-and-data-management-4.png",
+    "lib/media/5.-stata-basics-and-data-management-5.png",
+    "lib/media/5.-stata-basics-and-data-management-6.png",
+    "lib/media/5.-stata-basics-and-data-management-7.png",
+    "lib/media/5.-stata-basics-and-data-management-8.png",
+    "lib/media/5.-stata-basics-and-data-management-9.png",
+    "lib/media/6.-variable-selection-&-data-relationships.png",
+    "lib/media/6.-variable-selection-&-data-relationships-1.png",
+    "lib/media/6.-variable-selection-&-data-relationships-2.png",
+    "lib/media/6.-variable-selection-&-data-relationships-3.png",
+    "lib/media/6.-variable-selection-&-data-relationships-4.png",
+    "lib/media/6.-variable-selection-&-data-relationships-6.png",
+    "lib/media/6.-variable-selection-&-data-relationships-7.png",
+    "lib/media/6.-variable-selection-&-data-relationships-8.png",
+    "lib/media/6.-variable-selection-&-data-relationships-9.png",
+    "lib/media/6.-variable-selection-&-data-relationships-10.png",
+    "lib/media/6.-variable-selection-&-data-relationships-11.png",
+    "lib/media/6.-variable-selection-&-data-relationships-12.png",
+    "lib/media/7.-sampling-&-complex-designs.png",
+    "lib/media/7.-sampling-&-complex-designs-1.png",
+    "lib/media/7.-sampling-&-complex-designs-2.png",
+    "lib/media/7.-sampling-&-complex-designs-3.png",
+    "lib/media/7.-sampling-&-complex-designs-4.png",
+    "lib/media/7.-sampling-&-complex-designs-5.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -124,6 +273,28 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -156,6 +327,28 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -173,865 +366,2024 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "Chernobyl/Causes, Consequences, and Legacy.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 103589,
-      "exportedPath": "chernobyl/causes,-consequences,-and-legacy.html",
+    "Research Citations/Articles/@tannerProtectiveFactorsAdverse2025.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 2245,
+      "exportedPath": "research-citations/articles/@tannerprotectivefactorsadverse2025.html",
       "dependencies": []
     },
-    "Clinic Resources/Counseling Against Lethal Means (CALM)/Clients Who Need Lethal Means Counseling.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 77,
-      "exportedPath": "clinic-resources/counseling-against-lethal-means-(calm)/clients-who-need-lethal-means-counseling.html",
+    "Research Citations/Books/@gehartMasteringCompetenciesFamily2017.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 42023,
+      "exportedPath": "research-citations/books/@gehartmasteringcompetenciesfamily2017.html",
       "dependencies": [
-        "lib/media/clients-who-need-lethal-means-counseling-1.pdf"
+        "lib/media/congruent-communication-diagram.png",
+        "lib/media/placator-stance-diagram.png",
+        "lib/media/blamer-stance-diagram.png",
+        "lib/media/superreasonable-stance-diagram.png",
+        "lib/media/irrelevant-stance-diagram.png",
+        "lib/media/case-conceptualization-(satir).pdf"
       ]
     },
-    "Clinic Resources/Counseling Against Lethal Means (CALM)/Firearms Laws Relevant to Lethal Means Counseling.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 86,
-      "exportedPath": "clinic-resources/counseling-against-lethal-means-(calm)/firearms-laws-relevant-to-lethal-means-counseling.html",
+    "Research Citations/Books/@nicholsFamilyTherapyConcepts2019.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 190155,
+      "exportedPath": "research-citations/books/@nicholsfamilytherapyconcepts2019.html",
+      "dependencies": []
+    },
+    "Research Citations/Books/Introduction to Criminal Investigation, Processes, Practices, and Thinking.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1659,
+      "exportedPath": "research-citations/books/introduction-to-criminal-investigation,-processes,-practices,-and-thinking.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/4. Cognitive & Neurological Development/@caseySimpleModelsSelfControl2015.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 2409,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/4.-cognitive-&-neurological-development/@caseysimplemodelsselfcontrol2015.html",
       "dependencies": [
-        "lib/media/firearms-laws-relevant-to-lethal-means-counseling-1.pdf"
+        "lib/media/neurobiological-models-of-adolescence.png"
       ]
     },
-    "Clinic Resources/Counseling Against Lethal Means (CALM)/How Clinicians Can Reduce Access to Lethal Means.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 82,
-      "exportedPath": "clinic-resources/counseling-against-lethal-means-(calm)/how-clinicians-can-reduce-access-to-lethal-means.html",
+    "University Resources/Current/Adolescent and Emerging Adulthood/4. Cognitive & Neurological Development/4. Cognitive & Neurological Development.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 92,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/4.-cognitive-&-neurological-development/4.-cognitive-&-neurological-development.html",
       "dependencies": [
-        "lib/media/how-clinicians-can-reduce-access-to-lethal-means.pdf"
+        "lib/media/neurobiological-models-of-adolescence.png"
       ]
     },
-    "Clinic Resources/Counseling Against Lethal Means (CALM)/Lethal Means, What Clients Need to Know.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 73,
-      "exportedPath": "clinic-resources/counseling-against-lethal-means-(calm)/lethal-means,-what-clients-need-to-know.html",
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@atkinQualitativeExaminationFamilial2022.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 11539,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@atkinqualitativeexaminationfamilial2022.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@crocettiIdentityFormationAdolescence2017.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1453,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@crocettiidentityformationadolescence2017.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@loydRacialEthnicSocialization2018.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1345,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@loydracialethnicsocialization2018.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@sladekItsAllMix2022.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1823,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@sladekitsallmix2022.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@sundarBrownItBring2008.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 666,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@sundarbrownitbring2008.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/@umana-taylorEthnicRacialSocialization2020.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1746,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/@umana-taylorethnicracialsocialization2020.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/5. Racial and Ethnic Identity Development/5. Racial and Ethnic Identity Development.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/5.-racial-and-ethnic-identity-development/5.-racial-and-ethnic-identity-development.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/Final Project/Project Outline.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 2029,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/final-project/project-outline.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/1..md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 3334,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/1..html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/7. Family Influences.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 5848,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/7.-family-influences.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Adolescent and Emerging Adulthood/Untitled Kanban.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 2484,
+      "exportedPath": "university-resources/current/adolescent-and-emerging-adulthood/untitled-kanban.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Family Development (2200)/Announcements.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 24352,
+      "exportedPath": "university-resources/current/family-development-(2200)/announcements.html",
       "dependencies": [
-        "lib/media/lethal-means,-what-clients-need-to-know.pdf"
+        "lib/media/announcements.png",
+        "lib/media/announcements-3.png",
+        "lib/media/announcements-4.png",
+        "lib/media/announcements-5.png",
+        "lib/media/announcements-6.png",
+        "lib/media/announcements-7.png",
+        "lib/media/1876-mirror-lake.jpg",
+        "lib/media/1911-mirror-lake.jpg"
       ]
     },
-    "Clinic Resources/Counseling Against Lethal Means (CALM)/The Basics of Firearms.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 88,
-      "exportedPath": "clinic-resources/counseling-against-lethal-means-(calm)/the-basics-of-firearms.html",
-      "dependencies": [
-        "lib/media/the-basics-of-firearms.pdf"
-      ]
-    },
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Curriculum/Week 1.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 3406,
-      "exportedPath": "clinic-resources/group-therapy/managing-your-mental-health/curriculum/week-1.html",
+    "University Resources/Current/Family Development (2200)/Family Development (2200).md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/family-development-(2200)/family-development-(2200).html",
       "dependencies": []
     },
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Curriculum/Week 2.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 4311,
-      "exportedPath": "clinic-resources/group-therapy/managing-your-mental-health/curriculum/week-2.html",
+    "University Resources/Current/Family Development (2200)/Struggling Students.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/family-development-(2200)/struggling-students.html",
       "dependencies": []
     },
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Emotion Regulation/Emotional Awareness Lesson Plan.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 388,
-      "exportedPath": "clinic-resources/group-therapy/managing-your-mental-health/emotion-regulation/emotional-awareness-lesson-plan.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Emotion Regulation/Emotions Activities.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1201,
-      "exportedPath": "clinic-resources/group-therapy/managing-your-mental-health/emotion-regulation/emotions-activities.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Group Therapy Facilitation/Check-Ins & Feedback.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1103,
-      "exportedPath": "clinic-resources/group-therapy/managing-your-mental-health/group-therapy-facilitation/check-ins-&-feedback.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Group Therapy Facilitation/Cross the Line Activity.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 5004,
-      "exportedPath": "clinic-resources/group-therapy/managing-your-mental-health/group-therapy-facilitation/cross-the-line-activity.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Group Therapy Facilitation/Group Check-In Sheet.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 714,
-      "exportedPath": "clinic-resources/group-therapy/managing-your-mental-health/group-therapy-facilitation/group-check-in-sheet.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Group Therapy Facilitation/Therapist Activities.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1025,
-      "exportedPath": "clinic-resources/group-therapy/managing-your-mental-health/group-therapy-facilitation/therapist-activities.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Group Therapy/Managing Your Mental Health/Observing a Piece of Fruit.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 2005,
-      "exportedPath": "clinic-resources/group-therapy/managing-your-mental-health/observing-a-piece-of-fruit.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Agoraphobia.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1669,
-      "exportedPath": "clinic-resources/mental-health-conditions/anxiety-disorders/agoraphobia.html",
-      "dependencies": [
-        "lib/media/agoraphobia.pdf",
-        "lib/media/agoraphobia-1.pdf",
-        "lib/media/agoraphobia-2.pdf"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Anxiety Disorders.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 2481,
-      "exportedPath": "clinic-resources/mental-health-conditions/anxiety-disorders/anxiety-disorders.html",
-      "dependencies": [
-        "lib/media/anxiety-disorders.pdf",
-        "lib/media/anxiety-disorders-1.pdf",
-        "lib/media/anxiety-disorders-2.pdf"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Generalized Anxiety Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/anxiety-disorders/generalized-anxiety-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Obsessive-Compulsive Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1246,
-      "exportedPath": "clinic-resources/mental-health-conditions/anxiety-disorders/obsessive-compulsive-disorder.html",
-      "dependencies": [
-        "lib/media/obsessive-compulsive-disorder.pdf",
-        "lib/media/obsessive-compulsive-disorder-1.pdf"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Panic Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/anxiety-disorders/panic-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Post-Traumatic Stress Disorder (PTSD).md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 2392,
-      "exportedPath": "clinic-resources/mental-health-conditions/anxiety-disorders/post-traumatic-stress-disorder-(ptsd).html",
-      "dependencies": [
-        "lib/media/post-traumatic-stress-disorder-(ptsd).pdf",
-        "lib/media/post-traumatic-stress-disorder-(ptsd)-1.pdf",
-        "lib/media/post-traumatic-stress-disorder-(ptsd)-2.pdf"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Separation Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/anxiety-disorders/separation-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Social Anxiety Disorder (Social Phobia).md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/anxiety-disorders/social-anxiety-disorder-(social-phobia).html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Anxiety Disorders/Specific Phobia.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/anxiety-disorders/specific-phobia.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Eating Disorders/Anorexia Nervosa.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 795,
-      "exportedPath": "clinic-resources/mental-health-conditions/eating-disorders/anorexia-nervosa.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Eating Disorders/Binge Eating Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 957,
-      "exportedPath": "clinic-resources/mental-health-conditions/eating-disorders/binge-eating-disorder.html",
-      "dependencies": [
-        "lib/media/binge-eating-disorder.pdf"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Eating Disorders/Bulimia Nervosa.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1135,
-      "exportedPath": "clinic-resources/mental-health-conditions/eating-disorders/bulimia-nervosa.html",
-      "dependencies": [
-        "lib/media/bulimia-nervosa.pdf"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Eating Disorders/Eating Disorders.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 3241,
-      "exportedPath": "clinic-resources/mental-health-conditions/eating-disorders/eating-disorders.html",
-      "dependencies": [
-        "lib/media/binge-eating-disorder.pdf",
-        "lib/media/bulimia-nervosa.pdf",
-        "lib/media/eating-disorders.pdf",
-        "lib/media/eating-disorders-1.pdf",
-        "lib/media/eating-disorders-2.pdf"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Depression Disorder due to Another Medical Condition.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/depressive-disorders/depression-disorder-due-to-another-medical-condition.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Disruptive Mood Dysregulation Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 13277,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/depressive-disorders/disruptive-mood-dysregulation-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Major Depressive Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 9919,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/depressive-disorders/major-depressive-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Other Specified Depressive Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/depressive-disorders/other-specified-depressive-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Perinatal Depression.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 9106,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/depressive-disorders/perinatal-depression.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Persistent Depressive Disorder (Dysthymic Disorder).md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1526,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/depressive-disorders/persistent-depressive-disorder-(dysthymic-disorder).html",
-      "dependencies": [
-        "lib/media/persistent-depressive-disorder-(dysthymic-disorder).pdf",
-        "lib/media/persistent-depressive-disorder-(dysthymic-disorder)-1.pdf"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Premenstrual Dysphoric Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/depressive-disorders/premenstrual-dysphoric-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Seasonal Affective Disorder (SAD).md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 11193,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/depressive-disorders/seasonal-affective-disorder-(sad).html",
-      "dependencies": [
-        "lib/media/seasonal-affective-disorder-(sad).pdf"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Substance or Medication-Induced Depressive Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/depressive-disorders/substance-or-medication-induced-depressive-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Depressive Disorders/Unspecified Depressive Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/depressive-disorders/unspecified-depressive-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Bipolar Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 2001,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/bipolar-disorder.html",
-      "dependencies": [
-        "lib/media/bipolar-disorder.png",
-        "lib/media/bipolar-disorder-1.png",
-        "lib/media/bipolar-disorder-2.png"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Mood Disorders/Mood Disorders.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1894,
-      "exportedPath": "clinic-resources/mental-health-conditions/mood-disorders/mood-disorders.html",
-      "dependencies": [
-        "lib/media/mood-disorders.pdf",
-        "lib/media/mood-disorders-1.pdf",
-        "lib/media/mood-disorders-2.pdf"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Attention-Deficit-Hyperactivity Disorder (ADHD).md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 3148,
-      "exportedPath": "clinic-resources/mental-health-conditions/attention-deficit-hyperactivity-disorder-(adhd).html",
-      "dependencies": [
-        "lib/media/attention-deficit-hyperactivity-disorder-(adhd).pdf",
-        "lib/media/attention-deficit-hyperactivity-disorder-(adhd).png",
-        "lib/media/attention-deficit-hyperactivity-disorder-(adhd)-1.png",
-        "lib/media/attention-deficit-hyperactivity-disorder-(adhd)-2.png"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Autism Spectrum Disorder (ASD).md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1113,
-      "exportedPath": "clinic-resources/mental-health-conditions/autism-spectrum-disorder-(asd).html",
-      "dependencies": [
-        "lib/media/autism-spectrum-disorder-(asd).png"
-      ]
-    },
-    "Clinic Resources/Mental Health Conditions/Bipolar I Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 2889,
-      "exportedPath": "clinic-resources/mental-health-conditions/bipolar-i-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Borderline Personality Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/borderline-personality-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Conduct Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/conduct-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Female Orgasmic Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 197,
-      "exportedPath": "clinic-resources/mental-health-conditions/female-orgasmic-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Female Sexual Interest (Arousal Disorder).md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 966,
-      "exportedPath": "clinic-resources/mental-health-conditions/female-sexual-interest-(arousal-disorder).html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Genito-Pelvic Pain (Penetration Disorder) (GPPPD).md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 532,
-      "exportedPath": "clinic-resources/mental-health-conditions/genito-pelvic-pain-(penetration-disorder)-(gpppd).html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Intermittent Explosive Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/intermittent-explosive-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Male Hypoactive Sexual Desire Disorder.md": {
-      "modifiedTime": 1743006784600,
+    "University Resources/Current/GLM 2/Final Project/Untitled.md": {
+      "modifiedTime": 1743007941808,
       "sourceSize": 243,
-      "exportedPath": "clinic-resources/mental-health-conditions/male-hypoactive-sexual-desire-disorder.html",
+      "exportedPath": "university-resources/current/glm-2/final-project/untitled.html",
       "dependencies": []
     },
-    "Clinic Resources/Mental Health Conditions/Oppositional Defiant Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/oppositional-defiant-disorder.html",
+    "University Resources/Current/GLM 2/HW/HW 1.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 2820,
+      "exportedPath": "university-resources/current/glm-2/hw/hw-1.html",
       "dependencies": []
     },
-    "Clinic Resources/Mental Health Conditions/Schizophrenia.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 446,
-      "exportedPath": "clinic-resources/mental-health-conditions/schizophrenia.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Separation Anxiety Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/separation-anxiety-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Substance Use Disorder.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/mental-health-conditions/substance-use-disorder.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Mental Health Conditions/Trauma and Stressor-Related Disorder.png": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 958398,
-      "exportedPath": "clinic-resources/mental-health-conditions/trauma-and-stressor-related-disorder.png",
-      "dependencies": []
-    },
-    "Clinic Resources/Training/Gottman/Level 1/Diffuse Physiological Arousal.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 220,
-      "exportedPath": "clinic-resources/training/gottman/level-1/diffuse-physiological-arousal.html",
-      "dependencies": []
-    },
-    "Clinic Resources/Training/Gottman/Level 1/Gottman Level 1 Training Manual.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 25,
-      "exportedPath": "clinic-resources/training/gottman/level-1/gottman-level-1-training-manual.html",
+    "University Resources/Current/GLM 2/HW/HW 2.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 13125,
+      "exportedPath": "university-resources/current/glm-2/hw/hw-2.html",
       "dependencies": [
-        "clinic-resources/training/gottman/level-1/level-1-training.pdf"
+        "lib/media/distance-5.png"
       ]
     },
-    "Clinic Resources/Training/Gottman/Level 1/Level 1 Training.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 13440537,
-      "exportedPath": "clinic-resources/training/gottman/level-1/level-1-training.pdf",
+    "University Resources/Current/GLM 2/HW/HW 3.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 23686,
+      "exportedPath": "university-resources/current/glm-2/hw/hw-3.html",
       "dependencies": []
     },
-    "Clinic Resources/Training/Gottman/Level 1/Level 1 Training Notes.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 21901,
-      "exportedPath": "clinic-resources/training/gottman/level-1/level-1-training-notes.html",
+    "University Resources/Current/GLM 2/In-Class Content/1. GLM Overview Part I.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 10143,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/1.-glm-overview-part-i.html",
       "dependencies": [
-        "clinic-resources/training/gottman/level-1/level-1-training.pdf"
+        "lib/media/1.-glm-overview-part-i.png",
+        "lib/media/1.-glm-overview-part-i-1.png",
+        "lib/media/1.-glm-overview-part-i-2.png",
+        "lib/media/1.-glm-overview-part-i-1.png",
+        "lib/media/1.-glm-overview-part-i-1-1.png",
+        "lib/media/1.-glm-overview-part-i-2-1.png",
+        "lib/media/1.-glm-overview-part-i-3.png",
+        "lib/media/1.-glm-overview-part-i-4.png"
       ]
     },
-    "Clinic Resources/Training/CITI Training (2023).md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 2461,
-      "exportedPath": "clinic-resources/training/citi-training-(2023).html",
+    "University Resources/Current/GLM 2/In-Class Content/2. Multiple Regression Review.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 21851,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/2.-multiple-regression-review.html",
+      "dependencies": [
+        "lib/media/2.-multiple-regression-review.png",
+        "lib/media/2.-multiple-regression-review-1.png",
+        "lib/media/2.-multiple-regression-review-2.png",
+        "lib/media/2.-multiple-regression-review-3-1.png",
+        "lib/media/2.-multiple-regression-review-4.png",
+        "lib/media/2.-multiple-regression-review-5.png",
+        "lib/media/2.-multiple-regression-review-6.png",
+        "lib/media/2.-multiple-regression-review-7.png",
+        "lib/media/2.-multiple-regression-review-8.png",
+        "lib/media/2.-multiple-regression-review-9.png",
+        "lib/media/2.-multiple-regression-review-10.png",
+        "lib/media/2.-multiple-regression-review-11.png",
+        "lib/media/2.-multiple-regression-review-10.png",
+        "lib/media/2.-multiple-regression-review-12.png",
+        "lib/media/2.-multiple-regression-review-13.png",
+        "lib/media/2.-multiple-regression-review-14.png",
+        "lib/media/2.-multiple-regression-review-15.png",
+        "lib/media/2.-multiple-regression-review-16.png",
+        "lib/media/2.-multiple-regression-review-17.png",
+        "lib/media/2.-multiple-regression-review-18.png",
+        "lib/media/2.-multiple-regression-review-19.png",
+        "lib/media/2.-multiple-regression-review-20.png",
+        "lib/media/2.-multiple-regression-review-1.png",
+        "lib/media/2.-multiple-regression-review-1-1.png",
+        "lib/media/2.-multiple-regression-review-2-1.png",
+        "lib/media/2.-multiple-regression-review-3-1.png",
+        "lib/media/2.-multiple-regression-review-4-1.png",
+        "lib/media/2.-multiple-regression-review-5-1.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/4. Diagnostics and Psychometrics.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 12642,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/4.-diagnostics-and-psychometrics.html",
+      "dependencies": [
+        "lib/media/4.-diagnostics-and-psychometrics.png",
+        "lib/media/4.-diagnostics-and-psychometrics-2.png",
+        "lib/media/4.-diagnostics-and-psychometrics-3.png",
+        "lib/media/4.-diagnostics-and-psychometrics-4.png",
+        "lib/media/4.-diagnostics-and-psychometrics-5.png",
+        "lib/media/4.-diagnostics-and-psychometrics-6.png",
+        "lib/media/4.-diagnostics-and-psychometrics-7.png",
+        "lib/media/4.-diagnostics-and-psychometrics-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-1-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-2-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-3-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-4-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-5-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-6-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-7-1.png",
+        "lib/media/4.-diagnostics-and-psychometrics-8.png",
+        "lib/media/4.-diagnostics-and-psychometrics-9.png",
+        "lib/media/4.-diagnostics-and-psychometrics-10.png",
+        "lib/media/4.-diagnostics-and-psychometrics-11.png",
+        "lib/media/4.-diagnostics-and-psychometrics-12.png",
+        "lib/media/4.-diagnostics-and-psychometrics-13.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/5. Conditional Process Analysis.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 19194,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/5.-conditional-process-analysis.html",
+      "dependencies": [
+        "lib/media/interaction-=-moderation.png",
+        "lib/media/5.-conditional-process-analysis.png",
+        "lib/media/5.-conditional-process-analysis-1.png",
+        "lib/media/5.-conditional-process-analysis-2.png",
+        "lib/media/5.-conditional-process-analysis-3.png",
+        "lib/media/mediation-(indirect-effects).png",
+        "lib/media/5.-conditional-process-analysis-4.png",
+        "lib/media/5.-conditional-process-analysis-5.png",
+        "lib/media/5.-conditional-process-analysis-6.png",
+        "lib/media/process-output-(moderation).png",
+        "lib/media/process-output-(mediation).png",
+        "lib/media/5.-conditional-process-analysis-7.png",
+        "lib/media/5.-conditional-process-analysis-8.png",
+        "lib/media/5.-conditional-process-analysis-9.png",
+        "lib/media/5.-conditional-process-analysis-10.png",
+        "lib/media/5.-conditional-process-analysis-11.png",
+        "lib/media/5.-conditional-process-analysis-12.png",
+        "lib/media/5.-conditional-process-analysis-13.png",
+        "lib/media/5.-conditional-process-analysis-14.png",
+        "lib/media/5.-conditional-process-analysis-15.png",
+        "lib/media/5.-conditional-process-analysis-16.png",
+        "lib/media/5.-conditional-process-analysis-17.png",
+        "lib/media/5.-conditional-process-analysis-18.png",
+        "lib/media/5.-conditional-process-analysis-19.png",
+        "lib/media/5.-conditional-process-analysis-20.png",
+        "lib/media/5.-conditional-process-analysis-21.png",
+        "lib/media/5.-conditional-process-analysis-22.png",
+        "lib/media/5.-conditional-process-analysis-23.png",
+        "lib/media/5.-conditional-process-analysis-24.png",
+        "lib/media/5.-conditional-process-analysis-25.png",
+        "lib/media/5.-conditional-process-analysis-26.png",
+        "lib/media/5.-conditional-process-analysis-27.png",
+        "lib/media/5.-conditional-process-analysis-28.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/6. Analysis of Covariance (ANCOVA).md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 16638,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/6.-analysis-of-covariance-(ancova).html",
+      "dependencies": [
+        "lib/media/6.-analysis-of-covariance-(ancova)-12.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-13.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-14.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-15.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-16.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-18.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-17.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-19.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-20.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-21.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-22.png",
+        "lib/media/6.-analysis-of-covariance-(ancova).png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-1.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-3.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-4.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-5.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-6.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-7.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-8.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-9.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-10.png",
+        "lib/media/6.-analysis-of-covariance-(ancova)-11.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/7. Repeated Measures Designs.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 16828,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/7.-repeated-measures-designs.html",
+      "dependencies": [
+        "lib/media/7.-repeated-measures-designs.png",
+        "lib/media/7.-repeated-measures-designs.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/In-Class Content/8. Mixed Designs. Split-Plot and Mixed ANOVA.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 2647,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/8.-mixed-designs.-split-plot-and-mixed-anova.html",
       "dependencies": []
     },
-    "Clinic Resources/Training/Counseling Against Lethal Means (CALM).md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 47116,
-      "exportedPath": "clinic-resources/training/counseling-against-lethal-means-(calm).html",
+    "University Resources/Current/GLM 2/In-Class Content/9. Best Practices for Reporting & Discussing Results in APA Style.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 79,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/9.-best-practices-for-reporting-&-discussing-results-in-apa-style.html",
       "dependencies": []
     },
-    "Clinic Resources/Training/De-Escalation through a Trauma-Informed Care Lens.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 20501,
-      "exportedPath": "clinic-resources/training/de-escalation-through-a-trauma-informed-care-lens.html",
+    "University Resources/Current/GLM 2/In-Class Content/10. Introduction to GLzM. Binary Logistic Regression.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 79,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/10.-introduction-to-glzm.-binary-logistic-regression.html",
       "dependencies": []
     },
-    "Clinic Resources/Training/Strategies for Working with High Conflict Couples.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 14678,
-      "exportedPath": "clinic-resources/training/strategies-for-working-with-high-conflict-couples.html",
+    "University Resources/Current/GLM 2/In-Class Content/11. Regressions with Categorical Data. Multinomial & Ordinal Logistic Regression.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 79,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/11.-regressions-with-categorical-data.-multinomial-&-ordinal-logistic-regression.html",
       "dependencies": []
     },
-    "Clinic Resources/ECR-SF Scoring.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1235,
-      "exportedPath": "clinic-resources/ecr-sf-scoring.html",
+    "University Resources/Current/GLM 2/In-Class Content/12. Regression with Count Data. Negative Binomial Regression & Poisson Regression.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 79,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/12.-regression-with-count-data.-negative-binomial-regression-&-poisson-regression.html",
       "dependencies": []
     },
-    "Clinic Resources/Preparing for Co-Therapy.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 2735,
-      "exportedPath": "clinic-resources/preparing-for-co-therapy.html",
+    "University Resources/Current/GLM 2/In-Class Content/13. Special Topics.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/glm-2/in-class-content/13.-special-topics.html",
       "dependencies": []
     },
-    "Clinic Resources/Questions for Clients.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 7925,
-      "exportedPath": "clinic-resources/questions-for-clients.html",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Analysis of Covariance (ANCOVA).md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 5156,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/analysis-of-covariance-(ancova).html",
       "dependencies": []
     },
-    "Clinic Resources/Relationship Questionnaire.md": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 1044,
-      "exportedPath": "clinic-resources/relationship-questionnaire.html",
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Conditional Process Analysis.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 25,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/conditional-process-analysis.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Distance.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 297,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/distance.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Exploratory Factor Analysis (EFA).md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 57,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/exploratory-factor-analysis-(efa).html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Face Validity.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 82,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/face-validity.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Homogeneity of Regression Slopes.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 55,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/homogeneity-of-regression-slopes.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Homogeneity of Variances.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 45,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/homogeneity-of-variances.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Influence.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 239,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/influence.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Leverage.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 307,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/leverage.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Main Effects Parameterization.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 81,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/main-effects-parameterization.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Moderator.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/moderator.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Simple Contrasts.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 728,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/simple-contrasts.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Sphericity.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 137,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/sphericity.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Key Terms and Concepts/Two-Way ANOVA.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 7599,
+      "exportedPath": "university-resources/current/glm-2/key-terms-and-concepts/two-way-anova.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Analytical Decision Tree for GLM.canvas": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 36271,
+      "exportedPath": "university-resources/current/glm-2/analytical-decision-tree-for-glm.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/General Overview of GLM & GLzM.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 14778,
+      "exportedPath": "university-resources/current/glm-2/general-overview-of-glm-&-glzm.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/GLM 2.canvas": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 14298,
+      "exportedPath": "university-resources/current/glm-2/glm-2.html",
+      "dependencies": [
+        "lib/media/simple-linear-regression-(slr).png",
+        "lib/media/pasted-image-20250129080138.png",
+        "lib/media/testing-homoscedasticity-example.png",
+        "lib/media/testing-for-normality.png",
+        "lib/media/testing-for-normality-1.png",
+        "lib/media/testing-for-normality-2.png",
+        "lib/media/testing-for-normality-histogram-example.png",
+        "lib/media/pasted-image-20250129081552.png",
+        "lib/media/testing-for-extreme-outliers.png",
+        "lib/media/testing-the-independence-of-error.png",
+        "lib/media/2.-multiple-regression-review-12.png",
+        "lib/media/2.-multiple-regression-review-13.png",
+        "lib/media/testing-linearity.png",
+        "lib/media/2.-multiple-regression-review-14.png"
+      ]
+    },
+    "University Resources/Current/GLM 2/MANCOVA (Multivariate Analysis of Covariance).md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 5224,
+      "exportedPath": "university-resources/current/glm-2/mancova-(multivariate-analysis-of-covariance).html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Mediation.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 27041,
+      "exportedPath": "university-resources/current/glm-2/mediation.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Parallel Mediation.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 3074,
+      "exportedPath": "university-resources/current/glm-2/parallel-mediation.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Serial Mediation.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 3193,
+      "exportedPath": "university-resources/current/glm-2/serial-mediation.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Untitled.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 3328,
+      "exportedPath": "university-resources/current/glm-2/untitled.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Untitled 1.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 14,
+      "exportedPath": "university-resources/current/glm-2/untitled-1.html",
+      "dependencies": []
+    },
+    "University Resources/Current/GLM 2/Untitled 2.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 41,
+      "exportedPath": "university-resources/current/glm-2/untitled-2.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/1. Introduction to Secondary Data Analysis/1. Introduction to Secondary Data Analysis.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 2263,
+      "exportedPath": "university-resources/current/secondary-data-analysis/1.-introduction-to-secondary-data-analysis/1.-introduction-to-secondary-data-analysis.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@davis-keanAnsweringDevelopmentalQuestions2015.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 10277,
+      "exportedPath": "university-resources/current/secondary-data-analysis/2.-research-questions-and-research-ethics/readings/@davis-keanansweringdevelopmentalquestions2015.html",
+      "dependencies": [
+        "lib/media/social-science-secondary-data-archives-table.jpeg"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@pengArtDataScience2018.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 8249,
+      "exportedPath": "university-resources/current/secondary-data-analysis/2.-research-questions-and-research-ethics/readings/@pengartdatascience2018.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/Readings/@schwartzImportanceStupidityScientific2008.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 3044,
+      "exportedPath": "university-resources/current/secondary-data-analysis/2.-research-questions-and-research-ethics/readings/@schwartzimportancestupidityscientific2008.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/2. Research Questions and Research Ethics/2. Research Questions and Research Ethics.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 12790,
+      "exportedPath": "university-resources/current/secondary-data-analysis/2.-research-questions-and-research-ethics/2.-research-questions-and-research-ethics.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/3. Sharing and Accessing Secondary Data/3. Sharing and Accessing Secondary Data.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 10371,
+      "exportedPath": "university-resources/current/secondary-data-analysis/3.-sharing-and-accessing-secondary-data/3.-sharing-and-accessing-secondary-data.html",
+      "dependencies": [
+        "lib/media/3.-sharing-and-accessing-secondary-data.png",
+        "lib/media/3.-sharing-and-accessing-secondary-data-1.png",
+        "lib/media/3.-sharing-and-accessing-secondary-data-2.png",
+        "lib/media/3.-sharing-and-accessing-secondary-data-3.png",
+        "lib/media/3.-sharing-and-accessing-secondary-data-4.png"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/4. STATA Basics and Data Management/4. STATA Basics and Data Management.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/4.-stata-basics-and-data-management/4.-stata-basics-and-data-management.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/5. STATA Basics and Data Management/5. STATA Basics and Data Management.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 6863,
+      "exportedPath": "university-resources/current/secondary-data-analysis/5.-stata-basics-and-data-management/5.-stata-basics-and-data-management.html",
+      "dependencies": [
+        "lib/media/5.-stata-basics-and-data-management.png",
+        "lib/media/5.-stata-basics-and-data-management-1.png",
+        "lib/media/5.-stata-basics-and-data-management-2.png",
+        "lib/media/5.-stata-basics-and-data-management-3.png",
+        "lib/media/5.-stata-basics-and-data-management-4.png",
+        "lib/media/5.-stata-basics-and-data-management-5.png",
+        "lib/media/5.-stata-basics-and-data-management-6.png",
+        "lib/media/5.-stata-basics-and-data-management-7.png",
+        "lib/media/5.-stata-basics-and-data-management-8.png",
+        "lib/media/5.-stata-basics-and-data-management-9.png"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/6. Variable Selection & Data Relationships.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 8270,
+      "exportedPath": "university-resources/current/secondary-data-analysis/6.-variable-selection-&-data-relationships.html",
+      "dependencies": [
+        "lib/media/6.-variable-selection-&-data-relationships.png",
+        "lib/media/6.-variable-selection-&-data-relationships-1.png",
+        "lib/media/6.-variable-selection-&-data-relationships-2.png",
+        "lib/media/6.-variable-selection-&-data-relationships-3.png",
+        "lib/media/6.-variable-selection-&-data-relationships-4.png",
+        "lib/media/6.-variable-selection-&-data-relationships-6.png",
+        "lib/media/6.-variable-selection-&-data-relationships-7.png",
+        "lib/media/6.-variable-selection-&-data-relationships-8.png",
+        "lib/media/6.-variable-selection-&-data-relationships-9.png",
+        "lib/media/6.-variable-selection-&-data-relationships-10.png",
+        "lib/media/6.-variable-selection-&-data-relationships-11.png",
+        "lib/media/6.-variable-selection-&-data-relationships-12.png"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/7. Sampling & Complex Designs.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 6689,
+      "exportedPath": "university-resources/current/secondary-data-analysis/7.-sampling-&-complex-designs.html",
+      "dependencies": [
+        "lib/media/7.-sampling-&-complex-designs.png",
+        "lib/media/7.-sampling-&-complex-designs-1.png",
+        "lib/media/7.-sampling-&-complex-designs-2.png",
+        "lib/media/7.-sampling-&-complex-designs-3.png",
+        "lib/media/7.-sampling-&-complex-designs-4.png",
+        "lib/media/7.-sampling-&-complex-designs-5.png"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/9. Missing Data.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/9.-missing-data.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/10. Data Relationships.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/10.-data-relationships.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/11. Replication, Reproducibility, & Questionable.Fraudulent Practices.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/11.-replication,-reproducibility,-&-questionable.fraudulent-practices.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/12. Preregistration & Registered Reports.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/12.-preregistration-&-registered-reports.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/13. Lab Time.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/13.-lab-time.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/14. Discuss Research Study & Findings.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 0,
+      "exportedPath": "university-resources/current/secondary-data-analysis/14.-discuss-research-study-&-findings.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/Assignment 4.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 4923,
+      "exportedPath": "university-resources/current/secondary-data-analysis/assignment-4.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/Contextual Outlier.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 73,
+      "exportedPath": "university-resources/current/secondary-data-analysis/contextual-outlier.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/Global Outliers.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 53,
+      "exportedPath": "university-resources/current/secondary-data-analysis/global-outliers.html",
+      "dependencies": []
+    },
+    "University Resources/Current/Secondary Data Analysis/STATA Command Guide.md": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 4729,
+      "exportedPath": "university-resources/current/secondary-data-analysis/stata-command-guide.html",
+      "dependencies": [
+        "lib/media/5.-stata-basics-and-data-management-4.png"
+      ]
+    },
+    "University Resources/Current/Secondary Data Analysis/statacheatsheets.pdf": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 6223556,
+      "exportedPath": "university-resources/current/secondary-data-analysis/statacheatsheets.pdf",
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 92,
       "exportedPath": "index.html",
       "dependencies": []
     },
-    "lib/media/clients-who-need-lethal-means-counseling-1.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 82978,
-      "exportedPath": "lib/media/clients-who-need-lethal-means-counseling-1.pdf",
+    "lib/media/congruent-communication-diagram.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 52096,
+      "exportedPath": "lib/media/congruent-communication-diagram.png",
       "dependencies": []
     },
-    "lib/media/firearms-laws-relevant-to-lethal-means-counseling-1.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 68816,
-      "exportedPath": "lib/media/firearms-laws-relevant-to-lethal-means-counseling-1.pdf",
+    "lib/media/placator-stance-diagram.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 48299,
+      "exportedPath": "lib/media/placator-stance-diagram.png",
       "dependencies": []
     },
-    "lib/media/how-clinicians-can-reduce-access-to-lethal-means.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 105544,
-      "exportedPath": "lib/media/how-clinicians-can-reduce-access-to-lethal-means.pdf",
+    "lib/media/blamer-stance-diagram.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 47152,
+      "exportedPath": "lib/media/blamer-stance-diagram.png",
       "dependencies": []
     },
-    "lib/media/lethal-means,-what-clients-need-to-know.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 85698,
-      "exportedPath": "lib/media/lethal-means,-what-clients-need-to-know.pdf",
+    "lib/media/superreasonable-stance-diagram.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 39754,
+      "exportedPath": "lib/media/superreasonable-stance-diagram.png",
       "dependencies": []
     },
-    "lib/media/the-basics-of-firearms.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 68816,
-      "exportedPath": "lib/media/the-basics-of-firearms.pdf",
+    "lib/media/irrelevant-stance-diagram.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 32362,
+      "exportedPath": "lib/media/irrelevant-stance-diagram.png",
       "dependencies": []
     },
-    "lib/media/agoraphobia.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 10760,
-      "exportedPath": "lib/media/agoraphobia.pdf",
+    "lib/media/case-conceptualization-(satir).pdf": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 152875,
+      "exportedPath": "lib/media/case-conceptualization-(satir).pdf",
       "dependencies": []
     },
-    "lib/media/agoraphobia-1.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 6955,
-      "exportedPath": "lib/media/agoraphobia-1.pdf",
+    "lib/media/neurobiological-models-of-adolescence.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 152413,
+      "exportedPath": "lib/media/neurobiological-models-of-adolescence.png",
       "dependencies": []
     },
-    "lib/media/agoraphobia-2.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 11441,
-      "exportedPath": "lib/media/agoraphobia-2.pdf",
+    "lib/media/announcements.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 95799,
+      "exportedPath": "lib/media/announcements.png",
       "dependencies": []
     },
-    "lib/media/anxiety-disorders.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 11569,
-      "exportedPath": "lib/media/anxiety-disorders.pdf",
+    "lib/media/announcements-3.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 527526,
+      "exportedPath": "lib/media/announcements-3.png",
       "dependencies": []
     },
-    "lib/media/anxiety-disorders-1.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 6828,
-      "exportedPath": "lib/media/anxiety-disorders-1.pdf",
+    "lib/media/announcements-4.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1244234,
+      "exportedPath": "lib/media/announcements-4.png",
       "dependencies": []
     },
-    "lib/media/anxiety-disorders-2.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 12198,
-      "exportedPath": "lib/media/anxiety-disorders-2.pdf",
+    "lib/media/announcements-5.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1251418,
+      "exportedPath": "lib/media/announcements-5.png",
       "dependencies": []
     },
-    "lib/media/obsessive-compulsive-disorder.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 10681,
-      "exportedPath": "lib/media/obsessive-compulsive-disorder.pdf",
+    "lib/media/announcements-6.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 876195,
+      "exportedPath": "lib/media/announcements-6.png",
       "dependencies": []
     },
-    "lib/media/obsessive-compulsive-disorder-1.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 7147,
-      "exportedPath": "lib/media/obsessive-compulsive-disorder-1.pdf",
+    "lib/media/announcements-7.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 150033,
+      "exportedPath": "lib/media/announcements-7.png",
       "dependencies": []
     },
-    "lib/media/post-traumatic-stress-disorder-(ptsd).pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 11449,
-      "exportedPath": "lib/media/post-traumatic-stress-disorder-(ptsd).pdf",
+    "lib/media/1876-mirror-lake.jpg": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 258286,
+      "exportedPath": "lib/media/1876-mirror-lake.jpg",
       "dependencies": []
     },
-    "lib/media/post-traumatic-stress-disorder-(ptsd)-1.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 7147,
-      "exportedPath": "lib/media/post-traumatic-stress-disorder-(ptsd)-1.pdf",
+    "lib/media/1911-mirror-lake.jpg": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 372130,
+      "exportedPath": "lib/media/1911-mirror-lake.jpg",
       "dependencies": []
     },
-    "lib/media/post-traumatic-stress-disorder-(ptsd)-2.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 12352,
-      "exportedPath": "lib/media/post-traumatic-stress-disorder-(ptsd)-2.pdf",
+    "lib/media/distance-5.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 69921,
+      "exportedPath": "lib/media/distance-5.png",
       "dependencies": []
     },
-    "lib/media/binge-eating-disorder.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 10872,
-      "exportedPath": "lib/media/binge-eating-disorder.pdf",
+    "lib/media/1.-glm-overview-part-i.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 138625,
+      "exportedPath": "lib/media/1.-glm-overview-part-i.png",
       "dependencies": []
     },
-    "lib/media/bulimia-nervosa.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 10706,
-      "exportedPath": "lib/media/bulimia-nervosa.pdf",
+    "lib/media/1.-glm-overview-part-i-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 210893,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-1.png",
       "dependencies": []
     },
-    "lib/media/eating-disorders.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 16003697,
-      "exportedPath": "lib/media/eating-disorders.pdf",
+    "lib/media/1.-glm-overview-part-i-2.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 253875,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-2.png",
       "dependencies": []
     },
-    "lib/media/eating-disorders-1.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 16003697,
-      "exportedPath": "lib/media/eating-disorders-1.pdf",
+    "lib/media/1.-glm-overview-part-i-1-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 333976,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-1-1.png",
       "dependencies": []
     },
-    "lib/media/eating-disorders-2.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 10562,
-      "exportedPath": "lib/media/eating-disorders-2.pdf",
+    "lib/media/1.-glm-overview-part-i-2-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 173261,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-2-1.png",
       "dependencies": []
     },
-    "lib/media/persistent-depressive-disorder-(dysthymic-disorder).pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 11041,
-      "exportedPath": "lib/media/persistent-depressive-disorder-(dysthymic-disorder).pdf",
+    "lib/media/1.-glm-overview-part-i-3.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 111009,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-3.png",
       "dependencies": []
     },
-    "lib/media/persistent-depressive-disorder-(dysthymic-disorder)-1.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 7029,
-      "exportedPath": "lib/media/persistent-depressive-disorder-(dysthymic-disorder)-1.pdf",
+    "lib/media/1.-glm-overview-part-i-4.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 262338,
+      "exportedPath": "lib/media/1.-glm-overview-part-i-4.png",
       "dependencies": []
     },
-    "lib/media/seasonal-affective-disorder-(sad).pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 2934119,
-      "exportedPath": "lib/media/seasonal-affective-disorder-(sad).pdf",
+    "lib/media/2.-multiple-regression-review.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1027714,
+      "exportedPath": "lib/media/2.-multiple-regression-review.png",
       "dependencies": []
     },
-    "lib/media/bipolar-disorder.png": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 61650,
-      "exportedPath": "lib/media/bipolar-disorder.png",
+    "lib/media/2.-multiple-regression-review-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1790647,
+      "exportedPath": "lib/media/2.-multiple-regression-review-1.png",
       "dependencies": []
     },
-    "lib/media/bipolar-disorder-1.png": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 69649,
-      "exportedPath": "lib/media/bipolar-disorder-1.png",
+    "lib/media/2.-multiple-regression-review-2.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 2010957,
+      "exportedPath": "lib/media/2.-multiple-regression-review-2.png",
       "dependencies": []
     },
-    "lib/media/bipolar-disorder-2.png": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 66039,
-      "exportedPath": "lib/media/bipolar-disorder-2.png",
+    "lib/media/2.-multiple-regression-review-3-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 228747,
+      "exportedPath": "lib/media/2.-multiple-regression-review-3-1.png",
       "dependencies": []
     },
-    "lib/media/mood-disorders.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 11392,
-      "exportedPath": "lib/media/mood-disorders.pdf",
+    "lib/media/2.-multiple-regression-review-4.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 40183,
+      "exportedPath": "lib/media/2.-multiple-regression-review-4.png",
       "dependencies": []
     },
-    "lib/media/mood-disorders-1.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 6830,
-      "exportedPath": "lib/media/mood-disorders-1.pdf",
+    "lib/media/2.-multiple-regression-review-5.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 256788,
+      "exportedPath": "lib/media/2.-multiple-regression-review-5.png",
       "dependencies": []
     },
-    "lib/media/mood-disorders-2.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 11461,
-      "exportedPath": "lib/media/mood-disorders-2.pdf",
+    "lib/media/2.-multiple-regression-review-6.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 779985,
+      "exportedPath": "lib/media/2.-multiple-regression-review-6.png",
       "dependencies": []
     },
-    "lib/media/attention-deficit-hyperactivity-disorder-(adhd).pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 13497,
-      "exportedPath": "lib/media/attention-deficit-hyperactivity-disorder-(adhd).pdf",
+    "lib/media/2.-multiple-regression-review-7.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 706312,
+      "exportedPath": "lib/media/2.-multiple-regression-review-7.png",
       "dependencies": []
     },
-    "lib/media/attention-deficit-hyperactivity-disorder-(adhd).png": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 81882,
-      "exportedPath": "lib/media/attention-deficit-hyperactivity-disorder-(adhd).png",
+    "lib/media/2.-multiple-regression-review-8.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 487886,
+      "exportedPath": "lib/media/2.-multiple-regression-review-8.png",
       "dependencies": []
     },
-    "lib/media/attention-deficit-hyperactivity-disorder-(adhd)-1.png": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 77084,
-      "exportedPath": "lib/media/attention-deficit-hyperactivity-disorder-(adhd)-1.png",
+    "lib/media/2.-multiple-regression-review-9.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 151909,
+      "exportedPath": "lib/media/2.-multiple-regression-review-9.png",
       "dependencies": []
     },
-    "lib/media/attention-deficit-hyperactivity-disorder-(adhd)-2.png": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 72742,
-      "exportedPath": "lib/media/attention-deficit-hyperactivity-disorder-(adhd)-2.png",
+    "lib/media/2.-multiple-regression-review-10.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 58246,
+      "exportedPath": "lib/media/2.-multiple-regression-review-10.png",
       "dependencies": []
     },
-    "lib/media/autism-spectrum-disorder-(asd).png": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 214435,
-      "exportedPath": "lib/media/autism-spectrum-disorder-(asd).png",
+    "lib/media/2.-multiple-regression-review-11.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 58070,
+      "exportedPath": "lib/media/2.-multiple-regression-review-11.png",
       "dependencies": []
     },
-    "clinic-resources/training/gottman/level-1/level-1-training.pdf": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 13440537,
-      "exportedPath": "clinic-resources/training/gottman/level-1/level-1-training.pdf",
+    "lib/media/2.-multiple-regression-review-12.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 339749,
+      "exportedPath": "lib/media/2.-multiple-regression-review-12.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-13.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 302909,
+      "exportedPath": "lib/media/2.-multiple-regression-review-13.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-14.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 337309,
+      "exportedPath": "lib/media/2.-multiple-regression-review-14.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-15.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 107875,
+      "exportedPath": "lib/media/2.-multiple-regression-review-15.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-16.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 164844,
+      "exportedPath": "lib/media/2.-multiple-regression-review-16.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-17.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 112034,
+      "exportedPath": "lib/media/2.-multiple-regression-review-17.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-18.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 201891,
+      "exportedPath": "lib/media/2.-multiple-regression-review-18.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-19.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 182735,
+      "exportedPath": "lib/media/2.-multiple-regression-review-19.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-20.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 348100,
+      "exportedPath": "lib/media/2.-multiple-regression-review-20.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-1-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 189940,
+      "exportedPath": "lib/media/2.-multiple-regression-review-1-1.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-2-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 229695,
+      "exportedPath": "lib/media/2.-multiple-regression-review-2-1.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-4-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 52751,
+      "exportedPath": "lib/media/2.-multiple-regression-review-4-1.png",
+      "dependencies": []
+    },
+    "lib/media/2.-multiple-regression-review-5-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 107279,
+      "exportedPath": "lib/media/2.-multiple-regression-review-5-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 30936,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-2.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 17595,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-2.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-3.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 79139,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-3.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-4.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 149337,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-4.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-5.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 129632,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-5.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-6.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 153887,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-6.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-7.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 80294,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-7.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 192787,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-1-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 134479,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-1-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-2-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 236636,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-2-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-3-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 27916,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-3-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-4-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 241618,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-4-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-5-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 28606,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-5-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-6-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 363776,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-6-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-7-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 19159,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-7-1.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-8.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 120016,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-8.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-9.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 95650,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-9.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-10.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 98453,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-10.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-11.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 39392,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-11.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-12.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 118206,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-12.png",
+      "dependencies": []
+    },
+    "lib/media/4.-diagnostics-and-psychometrics-13.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 164500,
+      "exportedPath": "lib/media/4.-diagnostics-and-psychometrics-13.png",
+      "dependencies": []
+    },
+    "lib/media/interaction-=-moderation.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 60590,
+      "exportedPath": "lib/media/interaction-=-moderation.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 234804,
+      "exportedPath": "lib/media/5.-conditional-process-analysis.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 80866,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-1.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-2.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 92281,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-2.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-3.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 197287,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-3.png",
+      "dependencies": []
+    },
+    "lib/media/mediation-(indirect-effects).png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 106091,
+      "exportedPath": "lib/media/mediation-(indirect-effects).png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-4.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 55326,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-4.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-5.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 89525,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-5.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-6.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 153656,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-6.png",
+      "dependencies": []
+    },
+    "lib/media/process-output-(moderation).png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 375756,
+      "exportedPath": "lib/media/process-output-(moderation).png",
+      "dependencies": []
+    },
+    "lib/media/process-output-(mediation).png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 295251,
+      "exportedPath": "lib/media/process-output-(mediation).png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-7.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 292493,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-7.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-8.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 118953,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-8.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-9.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 203083,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-9.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-10.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 205578,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-10.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-11.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 92019,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-11.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-12.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 263466,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-12.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-13.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 399570,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-13.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-14.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 261936,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-14.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-15.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 222236,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-15.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-16.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 203491,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-16.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-17.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 61373,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-17.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-18.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 63060,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-18.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-19.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 53398,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-19.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-20.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 731108,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-20.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-21.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 162319,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-21.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-22.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 28824,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-22.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-23.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 186121,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-23.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-24.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 107118,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-24.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-25.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 74446,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-25.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-26.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 97347,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-26.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-27.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 90150,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-27.png",
+      "dependencies": []
+    },
+    "lib/media/5.-conditional-process-analysis-28.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 181265,
+      "exportedPath": "lib/media/5.-conditional-process-analysis-28.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-12.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 238922,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-12.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-13.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 57787,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-13.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-14.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 150318,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-14.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-15.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 145933,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-15.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-16.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 66553,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-16.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-18.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 80498,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-18.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-17.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 78740,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-17.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-19.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 44503,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-19.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-20.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 44471,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-20.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-21.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 214646,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-21.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-22.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 190148,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-22.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova).png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 56693,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova).png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 48154,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-1.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-3.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 162735,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-3.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-4.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 123444,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-4.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-5.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 201196,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-5.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-6.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 175722,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-6.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-7.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 163050,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-7.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-8.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 160091,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-8.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-9.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 215038,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-9.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-10.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 257829,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-10.png",
+      "dependencies": []
+    },
+    "lib/media/6.-analysis-of-covariance-(ancova)-11.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 170606,
+      "exportedPath": "lib/media/6.-analysis-of-covariance-(ancova)-11.png",
+      "dependencies": []
+    },
+    "lib/media/7.-repeated-measures-designs.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 266433,
+      "exportedPath": "lib/media/7.-repeated-measures-designs.png",
+      "dependencies": []
+    },
+    "lib/media/simple-linear-regression-(slr).png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 253951,
+      "exportedPath": "lib/media/simple-linear-regression-(slr).png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250129080138.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 145772,
+      "exportedPath": "lib/media/pasted-image-20250129080138.png",
+      "dependencies": []
+    },
+    "lib/media/testing-homoscedasticity-example.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 66439,
+      "exportedPath": "lib/media/testing-homoscedasticity-example.png",
+      "dependencies": []
+    },
+    "lib/media/testing-for-normality.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 57758,
+      "exportedPath": "lib/media/testing-for-normality.png",
+      "dependencies": []
+    },
+    "lib/media/testing-for-normality-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 6770,
+      "exportedPath": "lib/media/testing-for-normality-1.png",
+      "dependencies": []
+    },
+    "lib/media/testing-for-normality-2.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 53367,
+      "exportedPath": "lib/media/testing-for-normality-2.png",
+      "dependencies": []
+    },
+    "lib/media/testing-for-normality-histogram-example.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 70149,
+      "exportedPath": "lib/media/testing-for-normality-histogram-example.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250129081552.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 116406,
+      "exportedPath": "lib/media/pasted-image-20250129081552.png",
+      "dependencies": []
+    },
+    "lib/media/testing-for-extreme-outliers.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 124716,
+      "exportedPath": "lib/media/testing-for-extreme-outliers.png",
+      "dependencies": []
+    },
+    "lib/media/testing-the-independence-of-error.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 48778,
+      "exportedPath": "lib/media/testing-the-independence-of-error.png",
+      "dependencies": []
+    },
+    "lib/media/testing-linearity.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 55126,
+      "exportedPath": "lib/media/testing-linearity.png",
+      "dependencies": []
+    },
+    "lib/media/social-science-secondary-data-archives-table.jpeg": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 938724,
+      "exportedPath": "lib/media/social-science-secondary-data-archives-table.jpeg",
+      "dependencies": []
+    },
+    "lib/media/3.-sharing-and-accessing-secondary-data.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 444605,
+      "exportedPath": "lib/media/3.-sharing-and-accessing-secondary-data.png",
+      "dependencies": []
+    },
+    "lib/media/3.-sharing-and-accessing-secondary-data-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 276820,
+      "exportedPath": "lib/media/3.-sharing-and-accessing-secondary-data-1.png",
+      "dependencies": []
+    },
+    "lib/media/3.-sharing-and-accessing-secondary-data-2.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 286883,
+      "exportedPath": "lib/media/3.-sharing-and-accessing-secondary-data-2.png",
+      "dependencies": []
+    },
+    "lib/media/3.-sharing-and-accessing-secondary-data-3.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 483934,
+      "exportedPath": "lib/media/3.-sharing-and-accessing-secondary-data-3.png",
+      "dependencies": []
+    },
+    "lib/media/3.-sharing-and-accessing-secondary-data-4.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 240106,
+      "exportedPath": "lib/media/3.-sharing-and-accessing-secondary-data-4.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 259073,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 5764,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-1.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-2.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 11503,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-2.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-3.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 11389,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-3.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-4.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 174296,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-4.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-5.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 45861,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-5.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-6.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 52735,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-6.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-7.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 52735,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-7.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-8.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 134793,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-8.png",
+      "dependencies": []
+    },
+    "lib/media/5.-stata-basics-and-data-management-9.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 65323,
+      "exportedPath": "lib/media/5.-stata-basics-and-data-management-9.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 94392,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 839422,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-1.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-2.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1317073,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-2.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-3.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 268154,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-3.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-4.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 145091,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-4.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-6.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 77391,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-6.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-7.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 301965,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-7.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-8.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 113084,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-8.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-9.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 113839,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-9.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-10.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 50849,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-10.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-11.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 150037,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-11.png",
+      "dependencies": []
+    },
+    "lib/media/6.-variable-selection-&-data-relationships-12.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 484166,
+      "exportedPath": "lib/media/6.-variable-selection-&-data-relationships-12.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 215039,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs-1.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 246135,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs-1.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs-2.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 116603,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs-2.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs-3.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 93258,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs-3.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs-4.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 16278,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs-4.png",
+      "dependencies": []
+    },
+    "lib/media/7.-sampling-&-complex-designs-5.png": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 20219,
+      "exportedPath": "lib/media/7.-sampling-&-complex-designs-5.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1743007941808,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 70585,
+      "modifiedTime": 1743007941808,
+      "sourceSize": 88804,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1743006784600,
-      "sourceSize": 9004,
+      "modifiedTime": 1743007941808,
+      "sourceSize": 11471,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 137466,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 123308,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 31316,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 337,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1743006784600,
+      "modifiedTime": 1743007941808,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
