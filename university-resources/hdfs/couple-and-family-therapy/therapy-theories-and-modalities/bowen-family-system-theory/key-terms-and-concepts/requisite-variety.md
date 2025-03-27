@@ -1,0 +1,1 @@
+- A wide range and quantity of varied information, experience and input into the system that is somehow stored for future use. 
