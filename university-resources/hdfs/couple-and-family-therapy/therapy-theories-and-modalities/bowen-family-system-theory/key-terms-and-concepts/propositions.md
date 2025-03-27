@@ -1,2 +1,0 @@
-- Behaviors and interaction patterns will not be repeated unless they serve the system in some way. 
-- If a pattern of interaction is repeated it is serving the system in some way (symptoms serve a function).

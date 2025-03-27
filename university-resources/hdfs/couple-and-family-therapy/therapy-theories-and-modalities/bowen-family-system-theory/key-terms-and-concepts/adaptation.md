@@ -1,2 +1,0 @@
-- When continuity and the need to accommodate to change become integrated in the system then the system is flexible and stable at the same time. 
-- When that is happening we would say the system is 'effectively' functioning and capable of growth and change.

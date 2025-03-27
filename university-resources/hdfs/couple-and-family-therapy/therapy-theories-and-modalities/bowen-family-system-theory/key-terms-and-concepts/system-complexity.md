@@ -1,1 +1,0 @@
-- An increase in the autonomy of the component parts and an increase in the extent to which the system or its parts determines system behavior (parts of not simply reactive to input from the environment)
