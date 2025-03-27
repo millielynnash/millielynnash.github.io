@@ -1,0 +1,12 @@
+- [[Research Citations/Books/@nicholsFamilyTherapyConcepts2019]]:
+	- "Jay Haley was always something of a maverick. He entered the field without clinical credentials and established his reputation as a gadfly and critic. His initial impact came from his writings, in which he infused sarcasm with incisive analysis. "
+- *Strategies of Psychotherapy*, [[Jay Haley]]
+- Covert messages are used in the struggle for control that characterizes many relationships
+- Symptoms represent an incongruence between levels of communication
+	- Since symptomatic behavior wasn’t reasonable, Haley didn’t try to reason with patients to help them
+		- Defined therapy as a directive form of treatment and acknowledged his debt to Milton Erickson, with whom he studied hypnosis. In what he called brief therapy, Haley zeroed in on the context and possible function of a patient’s symptoms.
+			- therapist is directing patients to do precisely what they would do anyway and thus subtly gaining the upper hand
+			- The decisive techniques in brief therapy were directives
+				- it isn’t enough to explain problems to patients; what counts is getting them to do something about them.
+					- paradox here is that you can’t accidentally make a mistake if you are doing so deliberately
+					- The cybernetic principle here: People will do anything to get out of housework
